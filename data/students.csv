@@ -1,0 +1,1001 @@
+student_id,age,gender,study_hours_per_day,attendance_pct,assignments_done,previous_score,parental_education,internet_access,extracurricular,sleep_hours,stress_level,library_visits,tuition_classes,final_score,performance_grade,pass_fail
+STU0001,20,Female,5.5,96.0,5,51.9,Graduate,Yes,No,6.0,Low,3,No,57.2,C,Pass
+STU0002,19,Male,4.2,88.9,9,59.8,Postgraduate,Yes,Yes,7.0,High,5,Yes,60.5,C,Pass
+STU0003,17,Male,5.8,75.9,11,50.1,None,No,Yes,7.0,High,4,Yes,38.8,F,Fail
+STU0004,22,Male,7.5,65.3,20,57.4,Graduate,Yes,No,7.6,Medium,5,No,63.4,C,Pass
+STU0005,22,Female,4.0,85.5,15,33.6,Postgraduate,No,Yes,5.4,Medium,5,Yes,51.8,C,Pass
+STU0006,22,Male,4.0,80.9,7,65.2,Postgraduate,Yes,Yes,7.7,Medium,5,No,60.6,C,Pass
+STU0007,18,Female,7.7,88.4,14,62.0,High School,Yes,Yes,4.0,Medium,6,No,69.8,B,Pass
+STU0008,16,Male,6.0,84.5,6,49.7,High School,Yes,No,6.2,Medium,6,No,50.8,C,Pass
+STU0009,21,Female,3.6,90.7,17,71.9,High School,Yes,Yes,6.4,High,6,No,59.7,C,Pass
+STU0010,16,Female,5.6,67.0,11,76.1,Graduate,Yes,No,7.8,Medium,5,Yes,72.0,B,Pass
+STU0011,22,Male,3.6,94.8,12,37.9,Graduate,Yes,Yes,7.0,High,7,Yes,53.0,C,Pass
+STU0012,16,Male,3.6,78.0,18,50.6,High School,Yes,Yes,5.3,Low,3,No,49.0,D,Pass
+STU0013,19,Female,5.0,100.0,7,50.5,Graduate,Yes,Yes,5.8,Low,5,No,61.6,C,Pass
+STU0014,21,Female,0.7,64.7,7,47.9,Graduate,Yes,No,7.2,Medium,7,No,33.1,F,Fail
+STU0015,19,Female,1.1,100.0,10,74.4,Graduate,No,Yes,6.9,Low,2,Yes,65.7,B,Pass
+STU0016,20,Male,3.4,78.0,17,59.1,Postgraduate,Yes,No,6.3,Medium,8,Yes,59.7,C,Pass
+STU0017,19,Female,2.5,65.2,6,58.0,Graduate,No,No,6.4,Low,4,Yes,42.5,D,Pass
+STU0018,20,Other,5.1,67.7,1,31.9,None,Yes,No,7.8,High,2,Yes,32.4,F,Fail
+STU0019,20,Male,2.7,70.2,11,71.5,Graduate,Yes,No,6.4,High,5,Yes,55.2,C,Pass
+STU0020,17,Male,1.7,81.4,15,43.4,High School,Yes,Yes,6.9,Medium,5,No,39.7,F,Fail
+STU0021,17,Male,7.4,82.8,17,62.9,Graduate,Yes,Yes,9.6,Low,4,Yes,74.3,B,Pass
+STU0022,17,Female,4.0,66.4,11,66.2,Postgraduate,Yes,No,5.3,Medium,6,No,58.5,C,Pass
+STU0023,22,Female,4.6,74.6,11,82.4,Postgraduate,Yes,No,4.8,High,8,No,61.1,C,Pass
+STU0024,17,Male,1.7,100.0,17,42.4,Graduate,No,No,7.9,Medium,4,Yes,45.9,D,Pass
+STU0025,15,Male,3.4,100.0,5,30.0,High School,Yes,No,6.2,Low,3,No,47.5,D,Pass
+STU0026,17,Male,4.7,81.5,11,64.8,High School,Yes,No,6.6,Low,6,No,59.9,C,Pass
+STU0027,17,Male,2.2,75.6,13,89.0,Graduate,Yes,Yes,6.1,Medium,4,No,65.0,B,Pass
+STU0028,17,Male,5.3,76.8,14,80.6,High School,Yes,No,6.7,Low,2,No,61.1,C,Pass
+STU0029,20,Other,3.3,84.2,10,65.1,Graduate,Yes,No,8.9,High,3,Yes,57.4,C,Pass
+STU0030,16,Male,3.9,59.7,13,54.6,None,Yes,No,8.0,High,1,No,40.2,D,Pass
+STU0031,21,Male,3.3,71.1,3,74.1,High School,No,Yes,8.0,Low,9,No,61.8,C,Pass
+STU0032,16,Female,8.2,50.0,10,47.4,High School,Yes,No,5.3,Medium,5,No,48.0,D,Pass
+STU0033,16,Female,4.5,81.0,14,69.1,Postgraduate,No,No,5.6,Low,3,No,51.7,C,Pass
+STU0034,18,Female,2.4,84.7,9,69.6,Graduate,Yes,Yes,4.0,High,4,No,44.6,D,Pass
+STU0035,15,Male,6.1,67.8,13,77.9,High School,Yes,No,6.0,Medium,3,No,64.4,C,Pass
+STU0036,20,Male,2.1,98.6,14,100.0,None,Yes,Yes,8.1,Medium,4,No,64.6,C,Pass
+STU0037,19,Female,4.9,56.6,11,67.9,Graduate,Yes,No,7.6,Medium,6,No,55.8,C,Pass
+STU0038,20,Female,0.6,53.0,13,54.4,High School,Yes,Yes,6.7,Medium,4,No,40.5,D,Pass
+STU0039,17,Male,1.8,78.4,9,61.6,Graduate,Yes,Yes,7.0,Medium,2,Yes,53.5,C,Pass
+STU0040,16,Female,4.9,90.7,12,35.5,Postgraduate,Yes,Yes,6.2,Medium,6,Yes,52.9,C,Pass
+STU0041,20,Female,6.0,100.0,15,51.6,Graduate,Yes,No,7.2,Medium,3,No,51.6,C,Pass
+STU0042,15,Male,4.8,68.1,13,55.9,Graduate,Yes,Yes,7.9,Medium,6,Yes,57.1,C,Pass
+STU0043,17,Female,4.3,91.2,10,54.1,Graduate,Yes,No,5.1,Low,2,Yes,56.2,C,Pass
+STU0044,18,Female,3.9,74.4,13,64.3,Postgraduate,Yes,No,7.4,Low,8,No,57.3,C,Pass
+STU0045,19,Male,1.5,72.4,15,49.7,Postgraduate,Yes,No,8.1,Medium,3,Yes,46.4,D,Pass
+STU0046,17,Female,3.1,88.3,4,78.8,Graduate,Yes,Yes,6.5,Medium,6,Yes,63.8,C,Pass
+STU0047,21,Female,3.6,84.8,17,62.0,High School,Yes,No,7.8,Medium,4,No,56.7,C,Pass
+STU0048,19,Female,6.6,51.4,11,61.9,Graduate,Yes,No,10.0,High,5,No,49.9,D,Pass
+STU0049,20,Male,5.2,97.1,14,57.1,High School,Yes,Yes,6.9,Low,6,No,66.3,B,Pass
+STU0050,17,Male,1.0,95.7,17,64.3,Graduate,Yes,Yes,7.5,Low,1,No,66.2,B,Pass
+STU0051,18,Female,5.1,65.6,7,74.4,Graduate,Yes,Yes,6.1,Low,5,No,68.5,B,Pass
+STU0052,20,Male,3.7,80.9,10,49.0,High School,Yes,No,7.2,Medium,7,No,46.8,D,Pass
+STU0053,15,Male,3.1,82.4,11,52.1,High School,Yes,Yes,7.6,Medium,6,No,49.4,D,Pass
+STU0054,19,Male,5.7,78.9,9,57.4,Graduate,Yes,Yes,7.2,Medium,6,No,60.6,C,Pass
+STU0055,19,Male,6.6,66.7,19,41.8,Postgraduate,No,No,5.8,Low,7,No,52.2,C,Pass
+STU0056,15,Other,6.4,64.9,9,49.7,Graduate,Yes,No,7.2,Medium,4,No,54.1,C,Pass
+STU0057,22,Male,2.8,74.6,10,54.9,Graduate,Yes,No,8.8,High,3,Yes,50.1,C,Pass
+STU0058,22,Other,3.9,92.6,13,75.1,High School,Yes,No,7.5,High,8,Yes,57.9,C,Pass
+STU0059,21,Male,5.2,83.2,8,65.9,Graduate,Yes,Yes,8.2,High,4,No,61.0,C,Pass
+STU0060,22,Female,6.5,69.4,11,64.9,Graduate,Yes,No,6.7,High,5,Yes,58.8,C,Pass
+STU0061,19,Male,3.5,86.6,14,74.8,Graduate,No,Yes,7.9,High,5,No,55.6,C,Pass
+STU0062,22,Female,4.1,40.0,11,59.9,None,No,No,7.3,Low,3,No,39.5,F,Fail
+STU0063,20,Female,2.3,92.2,12,67.9,Graduate,Yes,No,5.9,Low,9,No,58.8,C,Pass
+STU0064,16,Male,2.1,48.9,10,60.5,High School,Yes,Yes,7.4,Low,8,Yes,57.2,C,Pass
+STU0065,21,Female,6.1,69.6,6,66.0,High School,Yes,No,5.8,Medium,6,No,58.3,C,Pass
+STU0066,15,Male,7.2,58.2,14,53.3,Postgraduate,Yes,Yes,6.2,High,3,Yes,60.4,C,Pass
+STU0067,18,Female,4.4,55.6,20,30.0,High School,Yes,Yes,7.2,Low,5,No,45.6,D,Pass
+STU0068,21,Other,6.5,92.4,13,60.0,High School,Yes,No,7.4,Medium,5,No,63.5,C,Pass
+STU0069,17,Female,5.2,68.0,13,83.3,Graduate,Yes,No,5.6,Medium,5,Yes,66.6,B,Pass
+STU0070,22,Female,3.2,80.2,15,75.9,Postgraduate,Yes,No,8.3,High,3,No,51.8,C,Pass
+STU0071,17,Male,5.2,74.3,7,76.5,Graduate,Yes,Yes,7.7,Medium,7,Yes,73.2,B,Pass
+STU0072,15,Male,7.6,82.2,19,80.5,Graduate,No,No,6.2,High,3,No,61.9,C,Pass
+STU0073,22,Male,4.4,76.2,13,63.3,Postgraduate,Yes,Yes,5.2,Medium,0,Yes,59.5,C,Pass
+STU0074,16,Female,7.6,55.8,19,65.0,High School,No,Yes,6.8,Medium,6,Yes,52.6,C,Pass
+STU0075,20,Female,0.0,89.9,10,52.7,High School,Yes,Yes,6.5,Medium,6,Yes,49.6,D,Pass
+STU0076,18,Male,6.1,67.6,20,57.3,High School,Yes,Yes,7.1,Medium,4,Yes,52.0,C,Pass
+STU0077,17,Female,4.7,51.7,16,71.2,Postgraduate,Yes,No,6.6,Low,5,No,57.4,C,Pass
+STU0078,17,Male,3.9,68.6,15,80.1,None,Yes,Yes,4.6,Medium,9,No,60.8,C,Pass
+STU0079,20,Male,4.7,97.5,13,59.9,High School,Yes,Yes,6.5,High,5,No,57.8,C,Pass
+STU0080,16,Female,0.5,87.8,12,55.2,Graduate,No,Yes,6.6,Medium,4,Yes,44.8,D,Pass
+STU0081,19,Male,4.1,69.8,17,62.0,Graduate,No,No,7.8,Medium,3,No,49.1,D,Pass
+STU0082,21,Female,5.2,69.8,13,71.0,Graduate,Yes,No,6.2,Medium,6,No,53.7,C,Pass
+STU0083,15,Male,7.5,70.2,5,40.3,Graduate,Yes,Yes,9.0,Medium,2,No,47.2,D,Pass
+STU0084,16,Female,3.5,100.0,8,30.0,High School,Yes,No,4.7,Low,6,No,42.8,D,Pass
+STU0085,16,Male,2.9,80.7,12,53.7,Graduate,Yes,Yes,8.6,Medium,6,No,47.6,D,Pass
+STU0086,16,Male,3.5,81.5,14,43.7,Graduate,Yes,No,6.7,Low,6,Yes,51.2,C,Pass
+STU0087,16,Female,6.3,90.5,12,54.4,Postgraduate,Yes,Yes,8.0,Low,5,No,57.3,C,Pass
+STU0088,19,Female,5.2,78.6,17,59.8,High School,Yes,Yes,7.1,High,3,No,59.0,C,Pass
+STU0089,20,Male,3.4,71.1,5,55.2,Postgraduate,Yes,No,8.4,Low,4,No,54.1,C,Pass
+STU0090,18,Male,5.5,72.1,13,83.8,Graduate,Yes,No,6.5,High,4,Yes,69.7,B,Pass
+STU0091,21,Female,4.7,73.9,5,66.9,None,Yes,Yes,5.7,Medium,5,Yes,62.3,C,Pass
+STU0092,16,Male,6.4,74.4,16,66.5,Graduate,Yes,No,8.7,High,4,Yes,56.8,C,Pass
+STU0093,21,Female,3.1,85.9,12,71.3,None,No,No,6.9,Low,4,Yes,54.4,C,Pass
+STU0094,16,Female,3.8,75.8,14,44.9,Postgraduate,Yes,No,7.3,Medium,5,Yes,41.2,D,Pass
+STU0095,15,Male,3.7,86.0,9,77.6,Postgraduate,No,Yes,8.5,Medium,5,No,77.2,B,Pass
+STU0096,17,Male,1.6,73.8,18,60.9,High School,No,Yes,5.8,High,5,No,42.4,D,Pass
+STU0097,19,Female,5.1,76.2,17,72.1,High School,No,No,7.7,Medium,7,No,60.5,C,Pass
+STU0098,16,Male,5.0,45.0,15,45.9,High School,No,Yes,6.3,Low,3,Yes,43.0,D,Pass
+STU0099,22,Female,4.5,88.7,12,38.7,High School,Yes,Yes,6.8,High,2,No,47.7,D,Pass
+STU0100,18,Male,4.0,80.2,15,74.3,High School,No,Yes,7.1,Medium,4,Yes,70.5,B,Pass
+STU0101,18,Female,1.7,90.0,10,67.6,High School,Yes,No,5.2,Low,4,No,53.5,C,Pass
+STU0102,18,Male,3.7,40.0,16,48.5,Graduate,Yes,Yes,6.1,Medium,6,No,39.2,F,Fail
+STU0103,22,Female,3.8,100.0,19,49.0,High School,No,No,8.6,Medium,3,No,45.7,D,Pass
+STU0104,15,Male,2.9,72.9,17,78.9,Postgraduate,Yes,Yes,8.1,Low,5,No,56.4,C,Pass
+STU0105,18,Male,4.2,91.6,10,44.2,Postgraduate,No,Yes,6.9,Medium,5,No,48.3,D,Pass
+STU0106,20,Female,5.3,59.4,14,86.6,Graduate,Yes,Yes,7.3,Low,5,Yes,79.1,B,Pass
+STU0107,15,Male,8.3,84.2,7,48.5,Postgraduate,No,Yes,6.6,Medium,5,Yes,60.6,C,Pass
+STU0108,19,Male,4.8,59.2,15,71.6,High School,Yes,No,8.6,High,3,Yes,54.0,C,Pass
+STU0109,18,Male,5.0,65.6,14,57.1,None,Yes,No,6.8,Medium,10,Yes,52.7,C,Pass
+STU0110,17,Male,4.4,100.0,5,71.0,Graduate,Yes,Yes,7.3,Medium,5,No,65.0,B,Pass
+STU0111,16,Female,0.7,72.1,8,53.8,Graduate,No,Yes,8.4,Low,4,Yes,40.1,D,Pass
+STU0112,19,Female,4.4,78.3,11,59.6,Graduate,No,No,6.1,Low,4,No,53.6,C,Pass
+STU0113,20,Male,4.6,88.1,11,62.6,Postgraduate,No,No,8.9,Low,7,Yes,74.5,B,Pass
+STU0114,17,Female,9.4,82.4,8,47.0,Postgraduate,Yes,No,5.2,Medium,3,No,51.6,C,Pass
+STU0115,19,Female,4.1,77.3,14,73.1,Graduate,Yes,No,9.0,Medium,6,No,57.8,C,Pass
+STU0116,20,Female,5.1,80.5,14,54.3,Graduate,Yes,Yes,6.6,High,2,Yes,65.9,B,Pass
+STU0117,18,Male,4.4,100.0,12,58.6,None,No,No,6.7,Low,4,No,56.7,C,Pass
+STU0118,19,Female,2.2,74.1,9,47.1,High School,Yes,Yes,4.7,Medium,4,No,39.4,F,Fail
+STU0119,19,Female,6.8,78.0,17,30.0,Graduate,Yes,Yes,6.5,Medium,4,Yes,53.1,C,Pass
+STU0120,19,Female,6.0,90.8,19,59.1,Graduate,Yes,No,5.8,Medium,8,No,59.0,C,Pass
+STU0121,15,Male,6.1,91.6,11,98.2,Graduate,No,No,6.3,High,5,Yes,69.1,B,Pass
+STU0122,22,Male,2.7,92.8,10,73.8,High School,No,No,6.8,Low,8,No,55.7,C,Pass
+STU0123,17,Female,7.3,84.6,14,61.7,Graduate,No,Yes,8.1,Low,5,No,63.2,C,Pass
+STU0124,21,Male,1.7,57.9,11,58.1,High School,Yes,Yes,7.2,Medium,7,No,44.5,D,Pass
+STU0125,20,Female,5.7,99.5,12,62.3,Graduate,Yes,Yes,7.4,Medium,8,No,58.6,C,Pass
+STU0126,22,Male,8.9,57.8,15,70.2,High School,Yes,No,5.7,Low,3,Yes,63.4,C,Pass
+STU0127,18,Female,2.5,79.5,5,44.3,None,Yes,Yes,5.9,Low,4,No,41.9,D,Pass
+STU0128,16,Female,3.4,63.7,18,78.7,High School,No,No,9.2,Medium,6,No,61.8,C,Pass
+STU0129,18,Female,4.7,74.0,13,72.7,High School,Yes,Yes,6.1,Medium,4,No,59.9,C,Pass
+STU0130,18,Female,3.5,79.9,11,72.8,Postgraduate,Yes,No,9.0,Low,4,No,60.8,C,Pass
+STU0131,15,Female,1.4,79.8,12,68.6,None,Yes,No,6.7,Medium,6,No,49.4,D,Pass
+STU0132,15,Male,4.6,81.3,12,62.3,High School,Yes,Yes,7.0,Medium,2,No,54.6,C,Pass
+STU0133,19,Female,2.4,99.2,6,72.1,Graduate,No,Yes,8.3,Medium,4,Yes,69.0,B,Pass
+STU0134,22,Male,5.4,81.8,18,70.9,Graduate,Yes,No,8.5,High,2,No,58.5,C,Pass
+STU0135,18,Female,2.7,71.3,13,56.7,None,Yes,Yes,6.9,Low,8,Yes,56.4,C,Pass
+STU0136,17,Male,7.6,89.5,14,53.4,None,Yes,No,6.5,High,7,No,46.4,D,Pass
+STU0137,15,Female,2.9,92.8,16,63.5,Postgraduate,Yes,No,6.9,Medium,2,No,58.8,C,Pass
+STU0138,20,Female,3.9,56.6,8,85.2,Graduate,Yes,Yes,7.4,High,5,No,60.0,C,Pass
+STU0139,22,Male,6.1,84.0,14,43.4,High School,Yes,No,8.1,Medium,6,Yes,51.5,C,Pass
+STU0140,15,Male,2.0,85.5,11,40.0,Graduate,No,Yes,7.0,Medium,7,No,37.1,F,Fail
+STU0141,17,Other,5.0,70.5,16,64.5,High School,Yes,No,7.7,High,7,No,47.4,D,Pass
+STU0142,15,Male,7.1,95.6,4,62.8,High School,Yes,Yes,9.0,High,7,No,59.2,C,Pass
+STU0143,21,Male,1.3,72.7,12,64.6,Graduate,Yes,No,7.5,Low,6,Yes,58.7,C,Pass
+STU0144,17,Male,4.9,76.9,10,65.7,Postgraduate,Yes,Yes,7.4,Low,5,No,63.8,C,Pass
+STU0145,22,Other,5.0,72.4,14,58.7,High School,No,Yes,5.2,Medium,5,Yes,56.2,C,Pass
+STU0146,21,Other,6.1,75.2,14,84.3,Postgraduate,Yes,Yes,4.0,High,8,No,68.7,B,Pass
+STU0147,21,Female,2.0,58.6,10,38.0,High School,Yes,No,7.5,Medium,7,Yes,36.9,F,Fail
+STU0148,16,Female,1.9,53.4,10,49.6,High School,No,No,6.9,Medium,4,Yes,36.6,F,Fail
+STU0149,17,Male,5.5,98.9,12,60.5,None,Yes,No,6.4,Medium,5,Yes,57.1,C,Pass
+STU0150,16,Other,5.1,62.3,9,37.4,High School,Yes,Yes,7.3,High,8,Yes,56.1,C,Pass
+STU0151,20,Male,5.0,60.1,16,59.4,Postgraduate,Yes,No,6.9,Medium,5,Yes,59.3,C,Pass
+STU0152,19,Male,5.2,42.7,11,86.9,Graduate,Yes,No,8.4,Medium,2,No,63.9,C,Pass
+STU0153,19,Male,3.1,65.4,1,62.3,None,Yes,Yes,7.1,High,3,No,43.5,D,Pass
+STU0154,22,Female,5.0,55.2,11,65.5,Postgraduate,Yes,Yes,6.1,Medium,7,Yes,60.2,C,Pass
+STU0155,22,Female,5.1,99.6,8,43.1,Postgraduate,No,Yes,8.2,Medium,3,No,57.0,C,Pass
+STU0156,22,Male,3.1,90.1,6,52.8,Graduate,Yes,Yes,6.7,Medium,8,No,48.5,D,Pass
+STU0157,21,Other,8.2,64.7,8,56.4,Postgraduate,No,Yes,7.6,Medium,1,No,62.8,C,Pass
+STU0158,15,Male,5.4,100.0,13,57.2,High School,Yes,No,6.4,Low,5,Yes,61.1,C,Pass
+STU0159,17,Male,2.1,89.7,18,81.2,Postgraduate,Yes,Yes,6.2,Low,3,Yes,68.9,B,Pass
+STU0160,15,Male,5.8,70.1,14,70.4,Graduate,Yes,No,7.1,Medium,5,No,61.1,C,Pass
+STU0161,17,Female,2.6,40.0,10,45.3,Postgraduate,Yes,No,7.0,Medium,5,Yes,36.6,F,Fail
+STU0162,22,Female,6.1,100.0,14,65.7,Graduate,Yes,No,7.6,Medium,2,Yes,68.9,B,Pass
+STU0163,15,Male,6.8,54.2,11,69.5,High School,Yes,No,6.7,Low,7,Yes,57.8,C,Pass
+STU0164,19,Female,2.9,50.3,10,79.1,Graduate,Yes,Yes,4.8,Medium,2,Yes,58.8,C,Pass
+STU0165,20,Male,6.4,90.3,8,85.7,High School,Yes,No,6.5,Medium,4,No,59.8,C,Pass
+STU0166,19,Female,5.3,100.0,5,46.8,High School,Yes,Yes,8.0,Medium,5,Yes,69.0,B,Pass
+STU0167,15,Other,6.1,95.8,11,49.8,High School,No,No,6.6,Low,4,No,44.5,D,Pass
+STU0168,17,Male,8.3,83.5,13,43.1,Postgraduate,No,No,6.7,Medium,4,No,52.8,C,Pass
+STU0169,18,Female,4.0,83.9,12,58.5,High School,Yes,No,8.2,High,5,No,52.6,C,Pass
+STU0170,20,Female,3.0,87.8,11,69.0,Graduate,No,No,6.1,Low,4,Yes,65.2,B,Pass
+STU0171,17,Male,2.7,86.4,9,76.8,High School,No,Yes,5.1,Medium,4,Yes,63.4,C,Pass
+STU0172,15,Female,2.9,79.2,15,60.9,Postgraduate,Yes,Yes,6.8,Medium,5,No,54.2,C,Pass
+STU0173,17,Female,4.3,76.6,7,57.2,High School,Yes,No,6.4,Medium,7,No,54.3,C,Pass
+STU0174,22,Male,5.2,74.1,16,64.3,Graduate,Yes,Yes,5.8,Medium,6,No,64.0,C,Pass
+STU0175,16,Male,5.1,63.7,8,49.5,Postgraduate,Yes,No,6.8,Medium,6,No,49.1,D,Pass
+STU0176,17,Male,6.2,70.8,9,93.3,Graduate,Yes,Yes,7.6,Medium,8,No,73.5,B,Pass
+STU0177,19,Female,4.5,49.6,7,37.9,High School,Yes,No,7.0,Medium,5,No,33.7,F,Fail
+STU0178,21,Female,7.4,73.5,10,64.8,Graduate,Yes,Yes,7.4,Low,2,No,61.9,C,Pass
+STU0179,19,Female,4.0,60.2,16,92.4,Postgraduate,Yes,Yes,9.2,Low,4,No,79.8,B,Pass
+STU0180,16,Male,9.9,58.4,15,62.1,Graduate,No,No,6.6,Medium,6,Yes,69.8,B,Pass
+STU0181,20,Male,5.8,77.7,16,59.1,High School,Yes,Yes,7.3,Low,3,Yes,60.4,C,Pass
+STU0182,17,Male,2.8,95.9,15,56.6,Postgraduate,Yes,Yes,6.4,High,3,Yes,56.4,C,Pass
+STU0183,20,Female,2.4,88.8,8,59.3,High School,No,Yes,6.0,High,5,Yes,47.1,D,Pass
+STU0184,18,Other,5.5,51.4,11,82.6,Graduate,Yes,Yes,6.3,High,5,No,60.5,C,Pass
+STU0185,17,Female,4.1,60.2,9,30.0,Postgraduate,Yes,Yes,6.4,High,6,Yes,41.3,D,Pass
+STU0186,19,Male,5.9,89.1,18,85.0,High School,No,Yes,7.4,Medium,2,No,72.6,B,Pass
+STU0187,21,Female,5.4,60.3,8,40.6,Graduate,No,No,9.8,High,6,No,32.4,F,Fail
+STU0188,19,Female,4.4,71.6,16,58.0,Graduate,Yes,Yes,6.1,Low,4,Yes,58.4,C,Pass
+STU0189,20,Male,2.8,83.3,16,55.6,Postgraduate,Yes,No,6.5,Low,3,No,61.3,C,Pass
+STU0190,15,Female,1.5,60.5,20,70.8,High School,No,Yes,6.9,High,4,Yes,47.6,D,Pass
+STU0191,19,Male,3.6,76.6,11,38.0,Graduate,Yes,Yes,7.5,Low,2,Yes,45.2,D,Pass
+STU0192,15,Male,6.2,55.0,15,68.9,Postgraduate,Yes,Yes,7.3,High,6,No,57.0,C,Pass
+STU0193,19,Male,4.9,66.0,20,92.4,None,Yes,No,8.5,Medium,8,No,61.6,C,Pass
+STU0194,22,Male,2.0,79.8,10,41.6,High School,Yes,Yes,4.1,High,5,Yes,49.0,D,Pass
+STU0195,19,Male,4.8,51.1,6,64.8,Postgraduate,Yes,No,4.1,Low,6,Yes,64.5,C,Pass
+STU0196,21,Male,5.3,81.6,5,52.1,High School,Yes,Yes,6.4,Medium,5,Yes,60.3,C,Pass
+STU0197,18,Male,2.7,74.7,15,68.4,Postgraduate,No,Yes,8.3,Low,5,Yes,67.2,B,Pass
+STU0198,15,Female,4.8,83.3,5,62.3,High School,Yes,No,5.1,High,6,Yes,57.1,C,Pass
+STU0199,15,Other,4.6,78.4,11,52.4,High School,Yes,Yes,4.0,Low,4,No,50.8,C,Pass
+STU0200,19,Female,2.2,95.5,14,69.3,Graduate,Yes,Yes,7.7,Medium,4,Yes,61.4,C,Pass
+STU0201,22,Male,5.2,76.9,13,89.1,Graduate,No,No,7.3,Low,5,No,63.3,C,Pass
+STU0202,15,Male,5.6,68.6,14,59.1,Graduate,Yes,No,5.7,Low,5,No,56.5,C,Pass
+STU0203,19,Male,6.7,76.8,13,72.8,Graduate,Yes,No,5.8,Medium,4,No,66.4,B,Pass
+STU0204,19,Male,6.6,83.1,18,42.6,Postgraduate,No,No,5.8,Low,4,Yes,59.0,C,Pass
+STU0205,20,Female,1.7,75.7,9,47.7,High School,Yes,No,7.1,Medium,7,No,45.0,D,Pass
+STU0206,17,Female,2.6,75.6,10,69.1,Graduate,Yes,No,6.2,Low,5,Yes,54.4,C,Pass
+STU0207,15,Female,5.5,64.5,9,84.3,High School,No,Yes,7.6,Medium,4,No,63.4,C,Pass
+STU0208,21,Female,5.5,65.1,16,67.3,Graduate,No,No,4.0,Medium,3,Yes,51.8,C,Pass
+STU0209,16,Male,5.5,54.0,16,57.3,High School,Yes,No,6.0,Low,9,No,53.4,C,Pass
+STU0210,20,Male,10.0,100.0,14,62.0,High School,No,Yes,5.6,Medium,6,Yes,74.1,B,Pass
+STU0211,15,Female,5.6,56.3,17,43.2,Graduate,Yes,Yes,6.7,High,6,Yes,48.3,D,Pass
+STU0212,21,Male,6.8,64.6,8,71.1,None,Yes,Yes,6.4,Low,4,Yes,68.0,B,Pass
+STU0213,22,Male,6.4,64.2,19,75.2,None,No,No,8.0,Low,7,Yes,58.2,C,Pass
+STU0214,15,Male,5.8,88.4,19,55.2,Graduate,No,Yes,4.8,Medium,6,No,48.1,D,Pass
+STU0215,18,Male,3.9,70.6,15,54.9,Graduate,Yes,No,7.1,Medium,6,No,51.6,C,Pass
+STU0216,16,Male,6.0,93.7,20,66.0,Postgraduate,Yes,Yes,7.7,Medium,2,Yes,80.5,A,Pass
+STU0217,16,Female,3.0,64.9,6,55.4,Graduate,Yes,No,9.2,Medium,6,No,39.2,F,Fail
+STU0218,21,Female,4.0,79.2,10,61.0,None,Yes,Yes,6.4,High,4,No,52.9,C,Pass
+STU0219,18,Male,3.5,62.5,10,93.5,Graduate,Yes,No,7.4,Low,7,No,67.2,B,Pass
+STU0220,18,Male,4.7,100.0,15,58.3,None,Yes,No,4.8,Medium,8,Yes,48.7,D,Pass
+STU0221,15,Female,9.1,57.2,8,56.6,Graduate,Yes,No,4.1,Medium,6,No,50.6,C,Pass
+STU0222,17,Male,0.8,79.6,16,52.3,Postgraduate,Yes,No,8.0,Medium,3,Yes,49.2,D,Pass
+STU0223,21,Male,5.9,84.5,18,73.2,Graduate,Yes,No,7.0,High,4,No,58.9,C,Pass
+STU0224,18,Male,1.3,81.2,15,59.3,Graduate,No,Yes,8.4,Medium,5,No,40.7,D,Pass
+STU0225,16,Male,3.6,72.2,14,52.3,High School,Yes,Yes,5.4,High,3,No,36.6,F,Fail
+STU0226,21,Female,6.7,73.1,9,81.8,Graduate,Yes,No,7.6,Medium,5,No,61.2,C,Pass
+STU0227,16,Female,4.6,75.7,9,83.3,Postgraduate,No,Yes,9.2,Low,8,No,69.3,B,Pass
+STU0228,15,Male,2.3,72.8,17,53.0,High School,Yes,Yes,7.5,Low,8,Yes,54.6,C,Pass
+STU0229,21,Male,3.1,89.5,16,34.0,High School,Yes,No,7.3,Medium,5,No,36.4,F,Fail
+STU0230,17,Male,5.9,100.0,12,77.1,Graduate,Yes,Yes,7.0,Medium,5,Yes,74.5,B,Pass
+STU0231,19,Male,3.0,66.6,11,51.7,Graduate,Yes,Yes,5.1,Low,8,Yes,60.2,C,Pass
+STU0232,21,Other,4.9,54.5,4,73.9,High School,Yes,No,8.6,Medium,5,No,54.2,C,Pass
+STU0233,18,Female,4.6,73.7,8,32.4,Postgraduate,Yes,Yes,6.3,Medium,4,No,43.2,D,Pass
+STU0234,18,Female,3.2,100.0,20,75.4,None,Yes,Yes,7.6,Low,3,No,69.0,B,Pass
+STU0235,15,Female,8.8,62.9,7,43.8,High School,Yes,Yes,5.1,Low,7,No,50.7,C,Pass
+STU0236,20,Female,5.8,99.6,13,73.0,Graduate,Yes,No,5.6,High,4,No,60.5,C,Pass
+STU0237,20,Female,0.4,100.0,17,62.2,High School,Yes,No,8.7,Medium,4,Yes,51.0,C,Pass
+STU0238,17,Male,4.9,66.7,7,47.7,Graduate,No,No,6.6,Medium,5,Yes,39.8,F,Fail
+STU0239,16,Male,3.2,83.5,13,55.9,High School,Yes,Yes,8.7,Medium,3,No,48.2,D,Pass
+STU0240,16,Female,6.2,99.4,16,72.3,None,Yes,No,6.9,Medium,5,Yes,54.5,C,Pass
+STU0241,19,Male,2.9,69.3,13,63.6,High School,Yes,No,4.8,Low,4,No,61.6,C,Pass
+STU0242,16,Other,4.3,71.9,20,70.8,Postgraduate,Yes,No,8.1,Medium,6,No,55.6,C,Pass
+STU0243,20,Female,5.5,66.3,6,91.6,Graduate,No,No,6.3,Medium,5,No,70.6,B,Pass
+STU0244,20,Female,6.2,59.8,17,38.5,Graduate,Yes,Yes,7.8,Medium,5,No,48.1,D,Pass
+STU0245,22,Male,2.1,65.3,12,86.3,High School,No,Yes,7.0,Low,2,Yes,66.7,B,Pass
+STU0246,18,Female,3.8,56.6,16,63.6,Graduate,Yes,Yes,5.1,Low,5,No,55.3,C,Pass
+STU0247,19,Male,3.6,75.5,14,48.5,Graduate,No,Yes,7.2,High,3,Yes,47.9,D,Pass
+STU0248,17,Other,3.2,63.5,10,42.0,Postgraduate,Yes,No,9.6,Medium,3,No,44.6,D,Pass
+STU0249,19,Male,8.0,78.5,13,59.2,Graduate,Yes,No,7.6,Medium,5,Yes,67.0,B,Pass
+STU0250,21,Female,5.3,51.7,5,75.8,Graduate,Yes,No,6.9,Medium,4,No,59.6,C,Pass
+STU0251,17,Female,2.0,80.0,15,60.1,None,Yes,Yes,8.3,High,3,No,42.0,D,Pass
+STU0252,20,Male,6.3,87.5,14,84.7,Graduate,Yes,Yes,7.3,Medium,4,No,69.9,B,Pass
+STU0253,16,Male,8.7,45.1,15,40.2,Graduate,Yes,Yes,7.3,Medium,2,No,43.0,D,Pass
+STU0254,15,Other,6.6,80.6,17,61.8,Postgraduate,Yes,Yes,5.7,High,6,No,64.0,C,Pass
+STU0255,19,Male,1.5,93.4,14,43.2,High School,No,Yes,7.3,Medium,7,No,45.4,D,Pass
+STU0256,19,Female,3.5,56.9,13,67.5,High School,Yes,No,8.2,Low,3,No,61.2,C,Pass
+STU0257,18,Male,7.0,100.0,9,75.3,Graduate,No,Yes,6.0,Low,5,No,72.7,B,Pass
+STU0258,22,Female,3.1,81.3,10,55.7,High School,No,No,8.7,High,4,No,36.1,F,Fail
+STU0259,22,Female,5.4,64.4,17,30.0,High School,No,Yes,6.9,High,6,No,26.7,F,Fail
+STU0260,22,Male,6.0,74.2,18,65.0,Postgraduate,Yes,No,5.9,Medium,6,No,66.1,B,Pass
+STU0261,18,Male,2.6,83.4,12,68.6,Graduate,Yes,Yes,8.2,Medium,2,Yes,51.6,C,Pass
+STU0262,20,Female,4.4,76.1,13,68.1,Postgraduate,Yes,Yes,6.7,Medium,2,No,59.4,C,Pass
+STU0263,17,Male,0.0,83.1,9,80.5,Postgraduate,Yes,No,7.9,Medium,5,No,53.8,C,Pass
+STU0264,22,Male,2.5,61.2,17,45.9,High School,Yes,No,6.6,Medium,2,No,38.7,F,Fail
+STU0265,15,Female,4.0,77.5,15,72.2,Graduate,No,Yes,6.9,Low,7,No,62.0,C,Pass
+STU0266,21,Male,2.0,53.8,20,79.9,None,Yes,Yes,7.6,High,4,No,50.7,C,Pass
+STU0267,18,Male,7.8,73.3,9,35.3,Postgraduate,Yes,Yes,7.3,High,5,No,36.7,F,Fail
+STU0268,18,Female,1.6,61.4,11,66.8,Graduate,No,No,4.6,Medium,7,Yes,48.3,D,Pass
+STU0269,16,Male,3.6,64.0,13,54.4,High School,Yes,No,5.7,Medium,5,No,33.4,F,Fail
+STU0270,16,Male,4.8,93.5,15,60.8,High School,Yes,Yes,8.1,Low,7,No,65.4,B,Pass
+STU0271,20,Male,7.4,91.4,12,67.2,Graduate,Yes,Yes,6.8,Medium,1,No,64.0,C,Pass
+STU0272,22,Female,1.6,84.1,9,54.7,High School,Yes,No,6.4,Medium,3,No,31.9,F,Fail
+STU0273,20,Female,6.8,58.6,16,51.9,High School,Yes,Yes,5.4,Medium,4,Yes,52.7,C,Pass
+STU0274,18,Female,4.5,70.3,15,62.5,Graduate,Yes,No,5.7,Medium,9,No,50.6,C,Pass
+STU0275,17,Male,2.5,93.2,9,45.7,Postgraduate,No,Yes,4.6,Medium,4,No,51.7,C,Pass
+STU0276,21,Male,5.4,77.1,18,45.7,High School,Yes,No,6.9,High,5,Yes,49.4,D,Pass
+STU0277,22,Male,4.9,100.0,17,72.2,Graduate,Yes,Yes,6.3,Low,6,No,72.3,B,Pass
+STU0278,15,Male,3.3,80.9,13,44.8,Postgraduate,Yes,Yes,5.8,Medium,6,No,55.1,C,Pass
+STU0279,18,Female,4.6,77.9,13,72.0,None,Yes,Yes,6.9,High,3,No,53.1,C,Pass
+STU0280,17,Male,3.7,70.4,15,68.9,Postgraduate,Yes,No,7.4,Medium,3,No,60.5,C,Pass
+STU0281,17,Male,4.7,77.0,9,36.1,High School,Yes,No,9.5,Medium,5,No,42.9,D,Pass
+STU0282,22,Male,5.8,72.7,13,51.8,Graduate,Yes,No,5.2,Medium,7,No,44.6,D,Pass
+STU0283,18,Female,7.7,85.6,4,79.9,Graduate,Yes,No,8.4,High,6,No,71.6,B,Pass
+STU0284,22,Female,2.0,89.4,16,47.3,Graduate,Yes,Yes,8.2,Low,6,No,44.6,D,Pass
+STU0285,17,Female,8.8,63.2,6,55.0,Postgraduate,Yes,Yes,6.1,Medium,4,No,64.9,C,Pass
+STU0286,19,Female,0.6,55.0,19,68.9,High School,Yes,No,7.2,Low,7,No,41.6,D,Pass
+STU0287,22,Female,4.2,47.5,11,73.8,High School,Yes,Yes,6.5,Low,4,No,61.5,C,Pass
+STU0288,17,Male,5.7,82.6,12,58.2,Graduate,Yes,Yes,7.2,Medium,8,Yes,71.3,B,Pass
+STU0289,18,Male,5.1,58.4,10,53.0,Postgraduate,Yes,Yes,8.8,Low,5,Yes,59.2,C,Pass
+STU0290,17,Female,3.3,42.7,11,83.3,High School,No,Yes,7.7,High,5,No,49.0,D,Pass
+STU0291,22,Female,4.1,80.8,18,88.1,Postgraduate,Yes,Yes,7.6,High,4,No,71.5,B,Pass
+STU0292,21,Female,3.5,100.0,3,76.7,High School,Yes,No,6.5,Medium,5,Yes,59.6,C,Pass
+STU0293,18,Female,3.3,74.9,18,63.3,High School,Yes,No,5.2,Medium,2,Yes,63.9,C,Pass
+STU0294,16,Female,6.2,87.6,14,49.9,Graduate,Yes,No,6.7,Medium,3,Yes,58.5,C,Pass
+STU0295,18,Female,5.2,76.2,8,49.5,None,Yes,No,8.4,High,7,No,38.5,F,Fail
+STU0296,17,Female,3.1,73.5,8,69.8,Graduate,Yes,No,5.2,Medium,5,No,49.9,D,Pass
+STU0297,18,Female,6.3,88.8,19,68.3,None,Yes,Yes,5.7,Low,6,No,60.7,C,Pass
+STU0298,15,Male,5.1,70.6,9,83.0,High School,Yes,Yes,7.2,High,7,No,57.3,C,Pass
+STU0299,18,Female,6.1,79.0,8,71.8,Graduate,Yes,No,5.8,Medium,2,No,58.6,C,Pass
+STU0300,18,Female,5.8,79.8,17,39.5,Graduate,No,Yes,6.0,Medium,7,Yes,49.2,D,Pass
+STU0301,22,Male,2.8,65.0,14,77.8,Graduate,Yes,Yes,6.5,High,5,No,52.6,C,Pass
+STU0302,15,Female,3.4,89.9,9,47.0,Graduate,Yes,Yes,5.4,High,5,No,56.2,C,Pass
+STU0303,15,Female,6.0,72.4,13,56.2,High School,No,Yes,5.8,Medium,7,No,46.2,D,Pass
+STU0304,15,Male,5.7,63.7,8,65.8,Graduate,No,Yes,7.8,Medium,6,No,55.3,C,Pass
+STU0305,20,Female,4.5,83.0,17,91.9,Postgraduate,Yes,Yes,5.4,High,5,No,74.0,B,Pass
+STU0306,19,Male,4.7,61.5,17,100.0,Postgraduate,Yes,Yes,5.1,Low,0,No,82.0,A,Pass
+STU0307,20,Other,7.1,75.4,15,71.1,High School,Yes,No,6.2,Medium,7,No,61.0,C,Pass
+STU0308,18,Female,3.3,74.9,14,59.3,None,No,No,7.9,Low,5,No,44.8,D,Pass
+STU0309,20,Male,5.6,91.3,20,70.0,Postgraduate,Yes,No,6.8,High,5,No,64.7,C,Pass
+STU0310,22,Male,4.1,82.1,12,75.3,Graduate,No,Yes,6.4,Medium,6,Yes,64.7,C,Pass
+STU0311,20,Female,4.1,74.6,8,57.2,Graduate,Yes,Yes,7.1,Low,8,No,54.8,C,Pass
+STU0312,15,Male,6.7,87.3,14,88.9,Graduate,Yes,No,4.9,High,4,No,61.2,C,Pass
+STU0313,15,Male,6.2,95.9,20,65.5,High School,No,Yes,7.6,Medium,6,Yes,62.9,C,Pass
+STU0314,16,Female,6.1,83.4,8,69.5,Graduate,Yes,No,7.5,High,4,Yes,55.3,C,Pass
+STU0315,20,Male,7.1,75.2,11,72.0,Postgraduate,Yes,No,6.5,Low,1,Yes,69.3,B,Pass
+STU0316,19,Male,4.5,55.3,14,68.3,Graduate,Yes,No,8.2,Medium,3,No,53.7,C,Pass
+STU0317,22,Female,5.9,59.0,12,74.6,High School,Yes,No,5.6,Medium,4,No,59.0,C,Pass
+STU0318,22,Female,3.9,70.4,9,52.7,High School,Yes,Yes,8.4,Medium,5,Yes,60.2,C,Pass
+STU0319,22,Female,5.1,65.9,17,53.6,High School,Yes,Yes,7.2,Medium,4,Yes,52.8,C,Pass
+STU0320,18,Female,4.2,72.2,20,45.5,Graduate,Yes,No,6.6,High,5,No,47.6,D,Pass
+STU0321,21,Male,4.7,75.8,13,68.6,High School,Yes,Yes,7.0,Medium,2,Yes,63.4,C,Pass
+STU0322,22,Male,5.7,82.9,9,73.7,None,Yes,Yes,6.9,High,2,Yes,66.7,B,Pass
+STU0323,21,Male,2.9,73.9,6,68.9,Postgraduate,No,Yes,8.5,Low,5,No,60.3,C,Pass
+STU0324,17,Female,8.7,82.3,14,87.1,High School,Yes,Yes,5.7,Low,5,No,74.4,B,Pass
+STU0325,19,Female,2.5,76.0,17,61.9,None,Yes,Yes,6.1,Low,5,Yes,47.9,D,Pass
+STU0326,19,Female,2.1,45.4,14,72.0,High School,Yes,Yes,8.2,Medium,6,No,51.5,C,Pass
+STU0327,16,Female,6.8,60.9,12,45.6,High School,Yes,No,6.3,Medium,4,Yes,47.6,D,Pass
+STU0328,18,Female,6.1,72.8,10,56.2,Graduate,No,No,8.1,High,9,No,42.0,D,Pass
+STU0329,18,Male,5.7,56.9,8,72.4,Postgraduate,No,No,9.0,Medium,7,Yes,53.2,C,Pass
+STU0330,15,Male,5.8,84.0,16,74.7,Postgraduate,Yes,No,6.5,Medium,2,Yes,70.6,B,Pass
+STU0331,15,Male,4.5,98.0,16,57.6,Graduate,Yes,Yes,7.8,Medium,3,No,66.2,B,Pass
+STU0332,19,Male,2.7,93.3,6,60.9,Graduate,No,Yes,5.6,Low,4,No,52.3,C,Pass
+STU0333,16,Female,4.7,71.8,19,39.2,Graduate,No,Yes,7.9,Low,6,Yes,55.5,C,Pass
+STU0334,18,Male,3.1,97.4,15,56.6,High School,No,No,7.2,Medium,7,Yes,50.5,C,Pass
+STU0335,16,Female,6.5,77.2,18,75.4,None,Yes,No,7.6,Medium,4,No,53.6,C,Pass
+STU0336,17,Female,4.2,69.9,7,70.6,Postgraduate,No,Yes,6.2,High,5,No,57.1,C,Pass
+STU0337,21,Male,2.8,65.8,7,69.5,High School,Yes,Yes,5.0,Medium,5,Yes,50.0,C,Pass
+STU0338,18,Male,3.9,70.5,12,62.7,High School,Yes,No,7.6,Medium,3,No,49.7,D,Pass
+STU0339,15,Male,5.3,69.2,15,62.1,Graduate,Yes,No,4.5,Medium,3,Yes,57.0,C,Pass
+STU0340,19,Male,3.4,77.6,20,52.1,Graduate,Yes,No,6.6,High,7,No,50.4,C,Pass
+STU0341,16,Female,2.9,77.4,15,72.5,None,Yes,Yes,8.1,Low,3,Yes,56.5,C,Pass
+STU0342,21,Male,5.0,75.0,12,68.3,High School,No,Yes,7.2,Medium,8,Yes,60.9,C,Pass
+STU0343,21,Female,5.0,81.6,8,69.4,High School,Yes,No,9.3,Medium,8,Yes,55.3,C,Pass
+STU0344,22,Female,3.5,92.9,17,54.1,Graduate,Yes,No,8.2,High,5,No,46.0,D,Pass
+STU0345,21,Female,3.6,89.2,9,30.0,High School,Yes,No,6.2,Low,5,No,22.2,F,Fail
+STU0346,15,Female,5.0,52.7,19,78.5,Graduate,Yes,No,7.0,Medium,3,No,70.4,B,Pass
+STU0347,19,Male,1.6,40.0,11,54.8,Graduate,Yes,No,6.9,Medium,3,Yes,45.4,D,Pass
+STU0348,15,Male,1.7,89.0,19,49.1,Postgraduate,No,No,5.1,Medium,6,Yes,44.8,D,Pass
+STU0349,18,Male,3.1,54.5,15,72.4,High School,Yes,Yes,5.9,Low,5,No,52.1,C,Pass
+STU0350,16,Male,4.1,71.6,12,56.1,High School,Yes,Yes,6.3,Low,4,Yes,55.7,C,Pass
+STU0351,17,Female,5.1,57.4,10,77.9,Graduate,Yes,No,4.6,Medium,6,No,61.9,C,Pass
+STU0352,22,Female,7.5,48.0,11,71.3,Graduate,No,Yes,7.1,Medium,3,Yes,53.6,C,Pass
+STU0353,20,Male,6.2,83.1,14,72.3,High School,Yes,Yes,6.7,Low,12,No,67.2,B,Pass
+STU0354,22,Male,4.2,86.4,13,41.5,Graduate,Yes,No,5.0,Medium,1,No,54.1,C,Pass
+STU0355,21,Male,4.5,66.4,10,80.2,None,Yes,No,7.5,Low,6,No,52.9,C,Pass
+STU0356,15,Female,2.5,40.0,12,65.9,None,Yes,Yes,7.9,High,1,Yes,45.1,D,Pass
+STU0357,20,Female,4.5,66.8,13,56.5,Graduate,No,Yes,7.3,Medium,6,Yes,64.7,C,Pass
+STU0358,16,Female,3.9,80.9,4,64.2,High School,Yes,No,6.6,High,1,No,50.0,C,Pass
+STU0359,18,Female,5.1,52.8,14,35.4,Postgraduate,Yes,No,7.7,Medium,4,No,42.2,D,Pass
+STU0360,22,Male,2.8,77.8,9,68.1,Graduate,No,No,7.8,High,3,No,48.7,D,Pass
+STU0361,15,Male,5.5,74.8,8,46.6,Graduate,Yes,Yes,7.4,Medium,3,No,48.2,D,Pass
+STU0362,18,Male,7.6,83.7,6,41.7,Graduate,Yes,Yes,6.0,Medium,5,No,59.5,C,Pass
+STU0363,17,Male,4.3,76.8,5,39.2,Graduate,Yes,No,7.3,Medium,5,No,39.0,F,Fail
+STU0364,21,Female,5.3,60.4,7,78.7,None,Yes,No,8.4,Medium,5,No,44.0,D,Pass
+STU0365,17,Female,5.9,92.9,10,52.6,Postgraduate,Yes,No,6.3,Medium,9,No,53.9,C,Pass
+STU0366,21,Female,3.7,72.6,20,85.0,Postgraduate,Yes,Yes,9.5,Low,3,No,67.7,B,Pass
+STU0367,19,Female,4.9,74.6,10,54.0,High School,No,Yes,6.4,Low,3,No,50.4,C,Pass
+STU0368,19,Male,4.5,61.0,13,36.4,High School,Yes,Yes,7.0,Medium,6,No,39.5,F,Fail
+STU0369,19,Male,4.7,68.4,14,45.3,High School,Yes,No,6.2,Medium,6,No,49.5,D,Pass
+STU0370,18,Female,3.0,61.7,13,80.5,Graduate,Yes,No,7.3,Low,3,No,64.2,C,Pass
+STU0371,19,Female,4.5,72.4,12,59.7,Graduate,Yes,Yes,4.9,Medium,7,No,56.0,C,Pass
+STU0372,16,Male,5.5,100.0,8,53.8,Postgraduate,Yes,Yes,6.3,Medium,4,No,59.2,C,Pass
+STU0373,20,Female,7.4,54.4,18,64.4,Graduate,Yes,No,5.7,High,1,Yes,54.1,C,Pass
+STU0374,20,Female,6.4,50.8,20,69.5,Graduate,Yes,Yes,7.2,Low,7,Yes,58.8,C,Pass
+STU0375,18,Male,8.8,97.1,6,78.8,Graduate,Yes,No,8.2,Medium,7,No,71.7,B,Pass
+STU0376,18,Female,3.0,71.9,8,83.7,Graduate,Yes,No,7.8,High,2,No,59.4,C,Pass
+STU0377,19,Male,6.2,65.0,11,56.6,Graduate,Yes,Yes,4.2,Medium,5,Yes,58.8,C,Pass
+STU0378,21,Female,4.9,90.6,9,42.1,Graduate,Yes,Yes,9.5,Low,6,No,50.9,C,Pass
+STU0379,20,Female,8.9,65.9,15,55.8,Graduate,Yes,No,7.4,High,9,Yes,61.9,C,Pass
+STU0380,22,Other,2.9,100.0,10,65.9,Graduate,Yes,Yes,6.1,Medium,3,Yes,61.5,C,Pass
+STU0381,20,Male,2.8,85.2,20,47.5,Graduate,No,Yes,7.2,Medium,4,No,55.2,C,Pass
+STU0382,19,Male,3.3,67.7,17,47.6,Graduate,Yes,No,7.2,High,10,No,47.6,D,Pass
+STU0383,18,Male,0.3,100.0,13,67.2,Graduate,No,No,6.2,High,4,Yes,53.9,C,Pass
+STU0384,17,Male,3.4,65.9,17,61.3,Graduate,Yes,No,7.2,Medium,4,No,54.3,C,Pass
+STU0385,21,Female,3.0,86.1,17,62.5,Graduate,No,Yes,6.3,Low,4,Yes,54.8,C,Pass
+STU0386,22,Female,4.8,79.5,10,50.6,Graduate,Yes,Yes,6.5,Medium,7,No,55.1,C,Pass
+STU0387,17,Male,5.2,94.5,9,58.5,Graduate,Yes,Yes,6.2,Low,8,Yes,68.0,B,Pass
+STU0388,19,Male,8.3,98.4,13,48.1,High School,Yes,Yes,5.3,Low,6,Yes,70.3,B,Pass
+STU0389,17,Male,6.4,75.5,16,75.4,None,Yes,No,7.2,Medium,6,No,61.5,C,Pass
+STU0390,16,Male,3.3,63.7,13,77.5,Graduate,Yes,Yes,7.7,High,3,No,58.5,C,Pass
+STU0391,16,Male,2.7,81.9,6,34.3,Graduate,Yes,No,7.6,High,5,Yes,51.1,C,Pass
+STU0392,16,Male,5.5,64.8,9,48.1,Postgraduate,No,Yes,8.0,Medium,6,No,48.2,D,Pass
+STU0393,18,Female,1.9,100.0,12,39.6,High School,Yes,Yes,7.4,Medium,2,Yes,51.3,C,Pass
+STU0394,18,Male,8.2,77.0,12,52.2,High School,Yes,No,6.4,Low,8,No,56.1,C,Pass
+STU0395,18,Female,6.9,69.5,20,60.7,High School,Yes,Yes,8.0,Low,5,Yes,71.5,B,Pass
+STU0396,18,Female,3.6,77.8,7,40.3,None,No,Yes,5.4,Low,4,No,44.5,D,Pass
+STU0397,18,Male,1.1,54.8,15,48.2,Graduate,No,Yes,5.9,High,4,No,36.7,F,Fail
+STU0398,19,Female,7.2,60.4,18,46.9,High School,No,Yes,5.8,Low,2,No,61.4,C,Pass
+STU0399,22,Female,4.3,93.0,20,65.1,Graduate,Yes,Yes,8.3,High,5,No,54.4,C,Pass
+STU0400,17,Female,7.0,65.1,11,63.0,Graduate,Yes,Yes,8.1,Medium,5,No,57.4,C,Pass
+STU0401,19,Male,1.3,59.3,14,51.2,Graduate,Yes,No,7.6,Low,4,No,45.1,D,Pass
+STU0402,22,Male,3.3,83.0,15,64.7,Postgraduate,Yes,No,8.3,Low,2,Yes,68.3,B,Pass
+STU0403,17,Female,4.5,92.8,13,53.8,Graduate,Yes,Yes,5.9,Medium,4,No,56.3,C,Pass
+STU0404,19,Female,4.6,85.8,12,57.9,High School,Yes,Yes,7.4,High,4,No,57.6,C,Pass
+STU0405,16,Male,3.6,89.9,14,87.1,Postgraduate,Yes,No,6.8,Medium,1,No,64.1,C,Pass
+STU0406,15,Male,5.7,63.6,2,82.1,Postgraduate,Yes,Yes,8.0,Medium,8,No,59.7,C,Pass
+STU0407,18,Male,2.4,53.7,15,42.5,High School,Yes,No,6.9,Medium,4,Yes,41.3,D,Pass
+STU0408,15,Male,4.2,97.5,13,74.4,None,No,No,6.5,Medium,10,No,53.4,C,Pass
+STU0409,15,Female,4.7,70.2,12,74.2,None,Yes,Yes,7.6,High,6,No,56.0,C,Pass
+STU0410,16,Male,5.5,71.2,20,44.8,High School,No,No,8.1,Medium,3,Yes,47.7,D,Pass
+STU0411,15,Male,5.9,94.9,10,74.3,Postgraduate,Yes,No,6.2,Medium,6,No,64.3,C,Pass
+STU0412,15,Female,2.3,83.3,11,85.1,Graduate,Yes,No,6.9,Medium,4,No,59.8,C,Pass
+STU0413,16,Male,1.4,81.8,20,45.2,High School,Yes,Yes,5.7,Medium,3,No,43.6,D,Pass
+STU0414,22,Female,7.1,100.0,9,48.2,Postgraduate,Yes,No,4.0,Medium,2,Yes,59.6,C,Pass
+STU0415,17,Female,5.2,65.3,10,77.3,Graduate,Yes,No,7.2,Low,3,No,62.5,C,Pass
+STU0416,19,Male,3.0,88.9,12,66.1,High School,No,Yes,7.7,Medium,5,Yes,54.1,C,Pass
+STU0417,20,Female,7.6,75.9,16,70.3,Postgraduate,Yes,No,7.3,High,3,No,67.5,B,Pass
+STU0418,15,Female,4.7,79.0,13,67.1,Postgraduate,Yes,Yes,4.7,Medium,4,No,62.7,C,Pass
+STU0419,22,Male,6.9,97.9,7,67.9,Postgraduate,Yes,Yes,6.6,Low,3,No,83.1,A,Pass
+STU0420,18,Male,4.6,82.6,10,42.1,Graduate,Yes,No,4.3,High,6,Yes,46.8,D,Pass
+STU0421,16,Female,8.6,83.1,10,77.7,Graduate,No,No,8.6,Low,5,No,67.4,B,Pass
+STU0422,21,Female,8.0,91.1,12,79.5,High School,Yes,No,5.7,Low,5,No,85.8,A,Pass
+STU0423,21,Female,4.0,69.5,14,58.6,Graduate,Yes,No,8.5,Low,4,Yes,60.4,C,Pass
+STU0424,15,Male,6.4,62.4,14,61.3,Postgraduate,Yes,Yes,8.1,Medium,4,No,65.2,B,Pass
+STU0425,20,Female,5.8,59.3,5,39.0,High School,No,Yes,5.9,Medium,6,No,42.3,D,Pass
+STU0426,17,Male,7.2,45.5,17,69.7,Graduate,Yes,No,5.6,Medium,4,No,62.0,C,Pass
+STU0427,22,Female,2.6,100.0,14,70.6,Graduate,No,Yes,7.4,Medium,6,Yes,64.1,C,Pass
+STU0428,17,Female,5.9,58.5,18,61.1,None,Yes,No,6.0,Medium,4,Yes,48.1,D,Pass
+STU0429,20,Female,6.6,71.7,14,78.9,Graduate,No,Yes,7.1,High,5,No,63.8,C,Pass
+STU0430,18,Female,1.0,70.8,17,57.0,High School,Yes,Yes,6.4,Low,5,Yes,46.9,D,Pass
+STU0431,15,Female,2.1,79.6,14,70.5,Graduate,Yes,Yes,4.9,High,4,Yes,56.5,C,Pass
+STU0432,18,Female,0.4,87.2,18,46.7,None,Yes,Yes,4.3,Medium,5,No,35.8,F,Fail
+STU0433,17,Male,4.0,87.9,15,61.6,Postgraduate,Yes,No,7.3,Medium,3,Yes,62.4,C,Pass
+STU0434,21,Female,5.9,66.3,12,59.4,High School,Yes,No,6.3,Medium,4,No,53.1,C,Pass
+STU0435,17,Female,7.5,72.5,20,65.4,High School,Yes,No,6.3,Medium,6,No,62.7,C,Pass
+STU0436,19,Male,4.6,79.2,16,56.5,High School,Yes,Yes,7.8,Low,6,No,58.9,C,Pass
+STU0437,17,Female,7.8,71.3,15,60.0,Postgraduate,No,Yes,8.4,High,1,No,55.0,C,Pass
+STU0438,16,Male,1.7,99.1,7,74.4,Graduate,Yes,Yes,6.7,Low,3,Yes,65.2,B,Pass
+STU0439,19,Female,1.1,82.4,7,55.4,Graduate,Yes,Yes,6.6,Low,4,Yes,58.8,C,Pass
+STU0440,18,Female,4.4,86.0,14,37.9,Graduate,Yes,Yes,7.6,Medium,6,No,52.6,C,Pass
+STU0441,17,Male,5.3,84.9,13,88.2,Graduate,No,Yes,5.4,Medium,4,No,62.5,C,Pass
+STU0442,20,Female,4.4,92.6,10,82.7,High School,Yes,Yes,7.3,Low,3,No,61.8,C,Pass
+STU0443,16,Male,0.4,77.7,13,42.6,Graduate,Yes,Yes,7.7,High,14,No,33.2,F,Fail
+STU0444,19,Female,4.3,55.5,19,72.3,High School,Yes,Yes,7.8,High,5,Yes,63.4,C,Pass
+STU0445,16,Male,1.9,81.0,15,54.5,Postgraduate,Yes,No,4.7,Medium,4,No,54.3,C,Pass
+STU0446,19,Male,5.8,65.2,8,66.0,Graduate,Yes,Yes,6.1,Medium,5,Yes,57.5,C,Pass
+STU0447,19,Male,5.2,67.1,12,66.4,Graduate,Yes,Yes,5.9,Medium,5,Yes,63.9,C,Pass
+STU0448,19,Male,2.6,83.8,9,58.5,High School,Yes,No,7.1,Medium,7,No,55.5,C,Pass
+STU0449,22,Female,3.5,93.6,11,50.2,Graduate,Yes,Yes,7.6,Medium,7,No,53.5,C,Pass
+STU0450,22,Female,2.4,75.3,11,51.6,High School,Yes,No,8.8,High,7,No,46.2,D,Pass
+STU0451,20,Male,4.4,79.6,11,48.3,High School,Yes,Yes,6.4,High,2,Yes,54.2,C,Pass
+STU0452,18,Male,6.4,100.0,7,49.5,High School,Yes,No,6.4,High,5,Yes,48.3,D,Pass
+STU0453,19,Male,2.5,78.6,12,61.0,Graduate,No,Yes,8.4,Low,3,Yes,56.3,C,Pass
+STU0454,19,Female,5.5,100.0,10,51.3,Graduate,No,No,7.4,Low,7,Yes,58.8,C,Pass
+STU0455,22,Female,3.4,83.5,1,72.2,High School,Yes,Yes,8.5,Low,2,Yes,63.6,C,Pass
+STU0456,16,Male,2.9,48.6,20,84.3,None,Yes,No,7.3,Medium,6,No,57.6,C,Pass
+STU0457,19,Female,4.3,86.3,17,53.3,Graduate,Yes,Yes,5.6,Medium,4,No,56.8,C,Pass
+STU0458,18,Male,2.4,80.7,11,65.6,Graduate,Yes,Yes,5.4,Medium,8,Yes,43.5,D,Pass
+STU0459,21,Female,3.4,94.3,13,69.5,High School,Yes,No,5.1,Medium,5,Yes,52.9,C,Pass
+STU0460,20,Female,2.1,85.1,8,69.1,High School,Yes,Yes,7.8,High,1,No,39.1,F,Fail
+STU0461,20,Female,8.4,72.9,19,63.1,Postgraduate,No,No,8.4,Medium,2,No,62.8,C,Pass
+STU0462,16,Female,4.6,56.6,20,73.1,Postgraduate,No,Yes,9.2,High,3,No,57.8,C,Pass
+STU0463,21,Female,3.1,71.9,13,69.2,Postgraduate,Yes,Yes,8.0,Low,6,Yes,67.8,B,Pass
+STU0464,19,Female,4.9,62.2,17,43.4,Postgraduate,Yes,No,8.4,Low,8,Yes,50.1,C,Pass
+STU0465,16,Female,4.3,66.3,13,75.0,High School,No,Yes,6.3,High,4,No,55.9,C,Pass
+STU0466,22,Male,4.1,83.8,7,75.3,High School,No,Yes,5.6,Medium,3,No,60.0,C,Pass
+STU0467,20,Male,5.7,100.0,11,50.6,High School,No,No,8.0,Medium,6,No,42.6,D,Pass
+STU0468,18,Male,6.0,80.9,13,62.6,High School,Yes,No,7.5,Low,6,No,52.2,C,Pass
+STU0469,16,Female,3.4,57.1,11,72.2,Postgraduate,Yes,No,7.1,Low,8,Yes,62.6,C,Pass
+STU0470,18,Male,3.3,81.7,12,58.9,Graduate,Yes,Yes,7.5,Medium,6,No,62.3,C,Pass
+STU0471,22,Male,3.9,92.9,12,78.1,Graduate,Yes,Yes,7.4,High,6,No,70.4,B,Pass
+STU0472,22,Male,0.0,65.9,12,97.5,High School,Yes,Yes,8.5,High,5,No,59.6,C,Pass
+STU0473,21,Male,1.5,73.0,13,50.2,Postgraduate,Yes,Yes,8.6,Medium,4,No,43.1,D,Pass
+STU0474,21,Female,7.2,75.2,8,41.3,Postgraduate,No,No,7.7,Medium,5,No,51.7,C,Pass
+STU0475,17,Female,7.8,63.2,10,66.6,High School,No,Yes,8.0,High,5,Yes,56.3,C,Pass
+STU0476,19,Female,4.0,84.7,7,72.8,Postgraduate,Yes,Yes,7.6,Medium,6,Yes,62.4,C,Pass
+STU0477,18,Female,5.7,73.2,16,58.5,High School,No,Yes,6.4,Medium,11,No,42.0,D,Pass
+STU0478,19,Female,5.1,81.3,4,83.8,None,Yes,No,7.9,High,8,Yes,59.6,C,Pass
+STU0479,21,Female,10.0,61.7,17,41.9,Graduate,No,No,5.3,High,7,No,45.2,D,Pass
+STU0480,18,Male,6.7,68.4,18,72.4,Graduate,Yes,No,8.3,High,7,No,60.2,C,Pass
+STU0481,15,Female,4.2,85.8,11,52.9,None,Yes,Yes,5.6,Low,4,Yes,44.3,D,Pass
+STU0482,21,Male,2.6,69.4,2,87.8,High School,Yes,No,7.3,Medium,8,Yes,60.5,C,Pass
+STU0483,15,Male,1.3,100.0,11,91.9,Postgraduate,Yes,No,6.0,High,6,No,50.5,C,Pass
+STU0484,15,Female,4.9,69.0,12,50.5,Graduate,Yes,Yes,7.7,Low,2,Yes,64.3,C,Pass
+STU0485,21,Male,3.0,78.4,8,53.8,Graduate,Yes,Yes,7.0,High,4,Yes,52.6,C,Pass
+STU0486,18,Male,1.7,89.0,10,74.9,High School,No,Yes,5.1,Low,0,Yes,59.6,C,Pass
+STU0487,20,Male,3.2,53.7,19,56.2,None,Yes,Yes,7.5,High,6,No,44.3,D,Pass
+STU0488,20,Male,2.3,48.6,15,61.3,High School,Yes,No,6.3,Medium,0,Yes,42.3,D,Pass
+STU0489,19,Male,7.9,52.1,9,62.4,High School,Yes,Yes,8.1,Low,7,No,61.3,C,Pass
+STU0490,15,Male,6.3,93.9,6,33.2,High School,Yes,Yes,7.0,Medium,9,No,50.1,C,Pass
+STU0491,19,Female,4.5,66.7,11,61.8,High School,Yes,No,7.5,Medium,7,Yes,38.1,F,Fail
+STU0492,18,Female,7.5,100.0,12,51.7,Graduate,Yes,No,5.9,Medium,2,Yes,60.0,C,Pass
+STU0493,19,Male,4.7,66.5,14,54.6,High School,Yes,No,6.3,Medium,4,No,47.3,D,Pass
+STU0494,19,Female,2.8,77.8,10,83.7,Postgraduate,Yes,Yes,6.4,High,8,No,60.5,C,Pass
+STU0495,15,Male,7.5,98.1,15,43.2,High School,Yes,Yes,8.0,Medium,5,Yes,67.2,B,Pass
+STU0496,21,Male,5.6,100.0,20,74.2,Graduate,Yes,Yes,9.0,Medium,5,Yes,68.0,B,Pass
+STU0497,20,Male,2.4,100.0,16,57.8,None,Yes,Yes,6.0,Low,6,No,50.7,C,Pass
+STU0498,16,Female,4.1,93.1,12,57.8,Graduate,No,Yes,8.3,High,2,No,40.6,D,Pass
+STU0499,17,Male,2.7,90.4,12,73.9,None,Yes,No,4.4,Low,4,Yes,67.8,B,Pass
+STU0500,18,Female,1.7,83.9,11,67.1,Postgraduate,Yes,Yes,5.6,Medium,7,No,54.7,C,Pass
+STU0501,18,Female,6.4,86.7,17,70.6,Graduate,No,Yes,5.8,High,3,Yes,62.6,C,Pass
+STU0502,18,Female,8.3,66.7,10,76.5,Graduate,Yes,Yes,5.4,Low,6,Yes,76.3,B,Pass
+STU0503,17,Female,1.7,62.7,13,57.0,None,Yes,No,5.1,Medium,2,Yes,45.9,D,Pass
+STU0504,16,Female,5.6,74.9,13,52.8,Graduate,No,No,7.5,Low,8,No,54.2,C,Pass
+STU0505,20,Male,3.2,72.4,10,45.7,Graduate,Yes,No,6.7,High,10,No,52.6,C,Pass
+STU0506,19,Male,3.5,68.2,7,49.6,High School,Yes,Yes,7.5,Medium,5,No,46.6,D,Pass
+STU0507,20,Female,3.3,85.4,14,100.0,Graduate,No,Yes,7.8,High,4,No,64.6,C,Pass
+STU0508,22,Female,2.8,89.3,12,80.7,Postgraduate,No,Yes,7.3,High,4,No,56.5,C,Pass
+STU0509,18,Male,4.6,76.3,15,41.7,Graduate,Yes,Yes,7.8,Medium,8,Yes,50.2,C,Pass
+STU0510,19,Male,2.8,97.2,10,42.2,Postgraduate,Yes,No,6.9,Medium,9,Yes,42.2,D,Pass
+STU0511,15,Male,5.0,57.9,17,69.2,Postgraduate,No,No,5.6,Medium,7,No,55.3,C,Pass
+STU0512,20,Male,4.4,72.1,9,70.2,Postgraduate,Yes,No,8.3,Medium,7,No,61.4,C,Pass
+STU0513,15,Male,4.0,64.2,19,70.2,Graduate,Yes,No,6.3,Medium,3,No,52.9,C,Pass
+STU0514,15,Female,2.7,47.0,6,58.2,Graduate,Yes,No,5.9,High,8,Yes,39.1,F,Fail
+STU0515,21,Female,3.3,73.8,14,60.1,Graduate,Yes,Yes,6.8,Medium,7,Yes,64.8,C,Pass
+STU0516,20,Female,6.0,73.2,14,66.9,Graduate,No,No,5.9,Medium,2,No,48.5,D,Pass
+STU0517,18,Female,5.5,97.7,9,63.3,Postgraduate,No,Yes,6.5,Medium,5,Yes,54.1,C,Pass
+STU0518,17,Female,2.5,84.5,14,30.0,None,No,No,7.4,Medium,7,No,22.9,F,Fail
+STU0519,18,Male,4.7,59.6,18,58.6,High School,No,Yes,7.4,Low,6,No,45.5,D,Pass
+STU0520,15,Male,6.0,100.0,4,49.2,High School,Yes,Yes,5.9,Medium,1,Yes,59.1,C,Pass
+STU0521,15,Female,1.2,93.3,15,64.6,High School,Yes,No,6.4,Medium,3,Yes,51.4,C,Pass
+STU0522,18,Female,5.6,83.7,3,100.0,High School,Yes,Yes,8.3,Medium,4,Yes,75.4,B,Pass
+STU0523,17,Male,3.2,71.6,9,67.5,Graduate,Yes,Yes,7.6,Medium,4,Yes,64.5,C,Pass
+STU0524,17,Other,5.6,60.6,19,57.3,None,Yes,Yes,9.5,Medium,3,No,47.4,D,Pass
+STU0525,21,Male,3.0,69.4,10,75.8,Graduate,Yes,Yes,8.4,High,7,Yes,62.9,C,Pass
+STU0526,19,Male,0.9,91.3,8,69.2,Graduate,No,No,8.4,High,9,Yes,56.2,C,Pass
+STU0527,16,Male,1.2,100.0,12,68.3,High School,Yes,No,5.3,Medium,4,No,48.9,D,Pass
+STU0528,15,Male,4.6,98.1,20,71.1,High School,Yes,Yes,7.9,Low,3,No,71.6,B,Pass
+STU0529,22,Female,5.0,67.7,5,92.8,Graduate,Yes,Yes,6.9,High,4,Yes,68.0,B,Pass
+STU0530,17,Female,2.7,58.2,8,45.0,Graduate,Yes,No,6.3,Medium,4,No,43.0,D,Pass
+STU0531,20,Male,5.8,77.1,18,69.1,Postgraduate,Yes,Yes,7.2,Medium,6,No,57.9,C,Pass
+STU0532,21,Female,1.2,48.5,20,48.1,Postgraduate,No,Yes,8.1,Low,3,Yes,40.1,D,Pass
+STU0533,15,Female,4.4,79.8,12,70.3,Postgraduate,Yes,Yes,7.6,Low,10,No,64.4,C,Pass
+STU0534,16,Female,2.1,72.8,8,48.2,Graduate,Yes,No,5.9,Low,5,No,40.4,D,Pass
+STU0535,20,Female,3.2,68.0,20,55.7,Postgraduate,Yes,Yes,7.9,Low,5,Yes,59.1,C,Pass
+STU0536,15,Male,4.6,51.1,19,57.6,Postgraduate,Yes,Yes,6.2,High,3,No,50.4,C,Pass
+STU0537,21,Female,2.8,82.7,15,76.6,Postgraduate,No,Yes,7.3,Medium,2,No,63.8,C,Pass
+STU0538,21,Male,3.7,67.0,9,75.8,None,No,Yes,6.6,Medium,7,No,48.8,D,Pass
+STU0539,17,Female,6.5,57.5,12,43.3,Postgraduate,No,No,6.7,High,5,Yes,42.0,D,Pass
+STU0540,19,Male,3.3,40.0,12,62.8,Graduate,Yes,Yes,7.9,High,4,Yes,48.1,D,Pass
+STU0541,18,Female,6.2,74.6,14,51.4,Graduate,Yes,Yes,5.8,High,6,No,48.4,D,Pass
+STU0542,22,Female,2.2,100.0,18,43.1,High School,Yes,Yes,9.3,High,5,No,38.6,F,Fail
+STU0543,21,Male,5.6,99.9,16,58.7,High School,Yes,Yes,4.8,Medium,4,Yes,55.5,C,Pass
+STU0544,20,Male,7.4,68.1,8,57.4,High School,No,No,6.3,High,7,No,47.2,D,Pass
+STU0545,18,Female,0.0,66.0,18,98.4,High School,Yes,No,7.4,Medium,4,Yes,59.8,C,Pass
+STU0546,17,Female,2.9,82.0,14,68.5,High School,No,Yes,7.7,Low,2,Yes,65.3,B,Pass
+STU0547,22,Male,5.7,60.0,15,41.3,Postgraduate,Yes,Yes,6.9,Medium,3,No,42.5,D,Pass
+STU0548,17,Female,4.1,79.5,18,53.5,None,Yes,Yes,6.9,Medium,8,Yes,50.0,C,Pass
+STU0549,22,Male,5.2,86.5,8,77.3,High School,Yes,No,7.5,High,5,Yes,70.2,B,Pass
+STU0550,22,Male,3.3,93.4,12,93.3,High School,Yes,No,6.7,Medium,6,Yes,64.9,C,Pass
+STU0551,20,Male,4.7,73.5,10,38.2,Graduate,Yes,Yes,8.7,Medium,2,No,43.9,D,Pass
+STU0552,16,Male,4.2,71.9,6,33.8,High School,Yes,No,8.0,Low,3,Yes,37.8,F,Fail
+STU0553,22,Female,6.8,61.8,14,90.1,High School,Yes,No,8.0,Medium,3,No,60.2,C,Pass
+STU0554,21,Other,5.0,62.6,20,67.8,Graduate,Yes,No,5.8,Low,7,No,68.6,B,Pass
+STU0555,20,Male,5.2,71.6,5,49.0,Graduate,Yes,Yes,6.9,Medium,5,No,50.3,C,Pass
+STU0556,15,Female,3.7,80.5,12,70.0,High School,Yes,Yes,6.6,High,2,Yes,58.6,C,Pass
+STU0557,16,Male,3.5,88.7,15,30.0,High School,Yes,Yes,5.8,Low,2,No,36.1,F,Fail
+STU0558,22,Female,3.6,63.0,13,62.1,High School,Yes,No,7.4,Medium,7,Yes,53.6,C,Pass
+STU0559,18,Male,5.3,97.4,12,66.9,Postgraduate,Yes,No,6.4,Low,8,No,72.1,B,Pass
+STU0560,15,Female,3.7,70.9,7,75.9,High School,Yes,No,7.8,Low,4,No,63.7,C,Pass
+STU0561,16,Female,5.1,74.7,13,46.8,Graduate,Yes,Yes,5.7,Medium,4,Yes,58.1,C,Pass
+STU0562,18,Male,8.7,63.8,9,63.3,High School,Yes,Yes,9.1,Low,4,No,59.1,C,Pass
+STU0563,15,Female,6.2,40.0,4,48.1,Graduate,Yes,Yes,5.9,Medium,3,Yes,51.6,C,Pass
+STU0564,19,Male,3.8,88.3,17,65.8,None,Yes,No,7.3,Low,4,Yes,63.0,C,Pass
+STU0565,21,Male,6.9,86.1,16,48.6,None,Yes,Yes,8.0,Low,6,Yes,51.6,C,Pass
+STU0566,20,Male,3.7,70.8,13,55.9,Graduate,No,Yes,6.3,Medium,5,No,42.8,D,Pass
+STU0567,20,Male,0.4,76.0,13,47.1,High School,Yes,No,8.0,Medium,5,Yes,45.1,D,Pass
+STU0568,20,Male,2.5,82.7,17,71.8,High School,Yes,Yes,5.5,Low,3,Yes,69.3,B,Pass
+STU0569,22,Male,0.8,51.6,13,74.9,Graduate,No,Yes,8.7,Medium,6,Yes,44.6,D,Pass
+STU0570,19,Male,3.8,67.1,16,58.5,Postgraduate,Yes,Yes,7.0,High,4,No,56.0,C,Pass
+STU0571,21,Male,4.5,86.9,11,62.6,High School,Yes,No,6.3,Medium,2,No,53.4,C,Pass
+STU0572,16,Female,7.9,56.2,18,40.3,Graduate,Yes,No,6.6,Low,5,Yes,60.8,C,Pass
+STU0573,21,Female,5.2,79.4,14,57.5,Postgraduate,Yes,No,8.0,Medium,7,Yes,56.5,C,Pass
+STU0574,17,Male,4.1,54.7,13,61.2,Postgraduate,Yes,Yes,6.3,Medium,8,No,57.4,C,Pass
+STU0575,15,Male,6.2,82.0,7,100.0,Graduate,Yes,No,6.1,Low,0,No,81.7,A,Pass
+STU0576,16,Male,0.1,74.5,14,45.3,Graduate,Yes,No,6.7,High,5,No,32.5,F,Fail
+STU0577,17,Female,5.0,50.8,9,84.0,High School,Yes,No,5.6,High,4,No,54.8,C,Pass
+STU0578,20,Female,6.0,92.5,10,77.0,Graduate,Yes,No,9.2,High,6,Yes,62.8,C,Pass
+STU0579,20,Male,1.5,64.0,9,66.2,High School,Yes,Yes,6.3,High,4,No,52.9,C,Pass
+STU0580,20,Male,6.8,62.8,8,88.4,High School,Yes,Yes,8.0,Medium,7,Yes,71.2,B,Pass
+STU0581,17,Male,5.2,78.0,20,67.6,Graduate,No,Yes,7.3,Medium,2,No,54.9,C,Pass
+STU0582,15,Male,3.7,92.2,18,67.8,High School,No,No,5.8,Medium,3,Yes,53.7,C,Pass
+STU0583,15,Female,5.8,59.8,20,61.2,Graduate,Yes,No,7.0,High,3,No,52.7,C,Pass
+STU0584,17,Female,9.0,75.9,8,80.4,Graduate,No,No,7.9,Medium,5,Yes,74.3,B,Pass
+STU0585,18,Male,4.9,81.4,13,78.4,Graduate,Yes,Yes,6.8,Medium,6,Yes,62.9,C,Pass
+STU0586,20,Female,5.0,85.4,7,52.6,High School,Yes,Yes,8.4,Medium,9,No,60.5,C,Pass
+STU0587,16,Male,3.6,77.6,10,42.2,High School,No,Yes,8.2,High,6,No,38.9,F,Fail
+STU0588,15,Male,2.8,69.5,9,59.0,Graduate,Yes,No,8.1,Low,7,No,53.2,C,Pass
+STU0589,21,Female,6.2,62.6,17,50.0,Postgraduate,Yes,Yes,6.4,Medium,2,No,55.1,C,Pass
+STU0590,17,Female,2.8,76.3,11,61.0,None,Yes,No,5.7,High,2,No,41.3,D,Pass
+STU0591,22,Male,4.6,58.9,17,80.6,High School,Yes,Yes,6.3,Medium,8,Yes,64.8,C,Pass
+STU0592,18,Male,3.5,40.0,15,55.1,Postgraduate,No,Yes,7.2,High,8,No,47.6,D,Pass
+STU0593,19,Female,5.5,81.5,20,61.4,None,Yes,No,7.7,Medium,8,No,52.8,C,Pass
+STU0594,22,Female,5.2,88.6,7,62.9,Postgraduate,Yes,Yes,4.4,Low,7,No,68.6,B,Pass
+STU0595,22,Male,6.6,40.0,18,74.7,Graduate,Yes,Yes,7.0,High,6,No,57.1,C,Pass
+STU0596,17,Male,3.5,59.9,17,30.0,Graduate,No,Yes,7.2,Low,2,No,40.7,D,Pass
+STU0597,21,Male,4.0,84.3,9,52.9,High School,Yes,Yes,6.7,Medium,7,No,45.7,D,Pass
+STU0598,18,Female,2.5,100.0,17,65.2,High School,Yes,No,8.5,Medium,6,Yes,63.7,C,Pass
+STU0599,19,Female,3.6,75.3,14,80.0,High School,Yes,No,7.5,Low,5,Yes,61.8,C,Pass
+STU0600,18,Male,5.3,64.1,12,54.6,Postgraduate,Yes,Yes,8.6,Medium,6,Yes,57.2,C,Pass
+STU0601,15,Female,6.0,72.3,9,33.9,Graduate,Yes,No,6.7,Medium,4,No,40.8,D,Pass
+STU0602,22,Female,2.7,95.6,10,71.3,Graduate,Yes,Yes,8.1,Medium,4,Yes,61.6,C,Pass
+STU0603,17,Male,6.2,65.3,20,52.5,Graduate,Yes,No,9.0,High,4,Yes,57.4,C,Pass
+STU0604,21,Male,7.2,63.0,13,44.2,High School,Yes,No,8.6,Low,5,Yes,53.4,C,Pass
+STU0605,19,Female,5.3,67.8,16,52.6,Graduate,Yes,No,5.7,Low,4,No,61.4,C,Pass
+STU0606,18,Female,8.3,60.7,9,59.2,Graduate,Yes,Yes,6.7,Medium,7,No,55.5,C,Pass
+STU0607,22,Female,3.0,76.8,9,52.9,Graduate,Yes,Yes,6.6,Medium,2,Yes,53.4,C,Pass
+STU0608,19,Female,2.0,99.4,17,30.0,High School,Yes,Yes,7.6,High,4,No,32.8,F,Fail
+STU0609,22,Male,0.9,79.8,7,75.5,Graduate,Yes,No,7.8,Low,1,No,57.6,C,Pass
+STU0610,16,Male,7.5,71.2,11,81.1,Postgraduate,Yes,Yes,6.0,High,6,Yes,72.8,B,Pass
+STU0611,21,Female,5.8,70.6,13,71.8,Graduate,Yes,Yes,7.1,Medium,1,No,62.0,C,Pass
+STU0612,17,Male,4.4,51.6,13,44.9,None,Yes,No,4.6,Medium,6,No,42.9,D,Pass
+STU0613,15,Female,5.1,88.2,12,59.0,Graduate,Yes,Yes,8.7,Low,6,Yes,62.7,C,Pass
+STU0614,22,Female,2.2,73.8,14,61.9,High School,No,Yes,6.4,Medium,0,Yes,53.8,C,Pass
+STU0615,19,Female,9.4,72.3,15,71.0,Graduate,Yes,Yes,7.1,Low,6,No,70.5,B,Pass
+STU0616,20,Male,4.8,100.0,15,72.0,Postgraduate,Yes,Yes,6.6,Low,1,No,72.3,B,Pass
+STU0617,18,Female,4.7,79.5,9,51.0,Graduate,No,Yes,8.4,Medium,4,Yes,46.5,D,Pass
+STU0618,20,Female,6.0,63.7,11,63.2,Graduate,Yes,Yes,4.0,High,6,No,51.4,C,Pass
+STU0619,19,Female,5.5,68.6,17,68.9,Graduate,Yes,Yes,7.0,Medium,7,No,61.1,C,Pass
+STU0620,21,Female,4.9,92.2,16,83.8,High School,Yes,Yes,6.9,Medium,6,No,77.4,B,Pass
+STU0621,20,Male,2.9,76.7,7,72.6,High School,Yes,No,6.5,Medium,3,Yes,56.2,C,Pass
+STU0622,18,Male,5.4,53.4,14,73.8,Postgraduate,No,Yes,9.1,Medium,7,No,67.8,B,Pass
+STU0623,19,Male,8.3,88.8,5,63.3,Graduate,Yes,No,5.9,High,6,Yes,63.8,C,Pass
+STU0624,15,Male,7.2,65.0,13,83.2,None,Yes,Yes,7.9,Medium,5,No,62.9,C,Pass
+STU0625,15,Female,7.7,100.0,20,68.1,High School,No,Yes,7.4,Low,7,No,77.7,B,Pass
+STU0626,17,Female,3.5,91.2,9,49.1,Graduate,No,No,8.5,Low,4,No,50.2,C,Pass
+STU0627,15,Female,2.5,68.3,9,83.1,Graduate,Yes,Yes,6.2,Medium,7,Yes,60.7,C,Pass
+STU0628,19,Female,4.2,94.2,16,72.5,Postgraduate,Yes,Yes,6.1,Medium,1,No,68.5,B,Pass
+STU0629,21,Male,4.6,76.0,6,55.4,High School,Yes,No,8.3,Low,2,No,49.6,D,Pass
+STU0630,19,Other,6.7,87.8,10,54.8,Postgraduate,No,No,7.5,High,2,No,41.8,D,Pass
+STU0631,15,Male,1.1,82.3,15,66.4,Graduate,Yes,Yes,5.1,Medium,6,Yes,61.9,C,Pass
+STU0632,16,Male,7.6,62.3,10,68.9,Graduate,Yes,Yes,6.4,Medium,8,No,68.5,B,Pass
+STU0633,19,Female,4.2,65.3,12,65.0,Graduate,Yes,No,7.5,Low,6,Yes,69.6,B,Pass
+STU0634,17,Female,3.6,90.4,15,66.7,High School,Yes,No,8.0,Medium,0,No,56.6,C,Pass
+STU0635,16,Female,2.5,70.0,14,87.5,Postgraduate,Yes,Yes,6.2,High,10,No,61.1,C,Pass
+STU0636,15,Male,1.2,68.9,14,78.1,High School,Yes,Yes,4.0,High,2,Yes,59.6,C,Pass
+STU0637,21,Female,6.1,60.7,11,64.9,High School,Yes,Yes,7.6,Low,5,Yes,68.5,B,Pass
+STU0638,18,Male,4.6,81.4,14,76.1,Postgraduate,Yes,Yes,5.5,Low,8,Yes,82.3,A,Pass
+STU0639,19,Male,1.9,100.0,12,46.5,Graduate,Yes,Yes,4.6,Medium,5,No,47.5,D,Pass
+STU0640,18,Female,1.9,59.0,14,68.0,Postgraduate,Yes,Yes,4.0,Medium,4,Yes,56.9,C,Pass
+STU0641,20,Female,3.8,75.4,11,89.1,Graduate,Yes,Yes,8.0,Medium,3,No,63.2,C,Pass
+STU0642,17,Female,7.8,96.2,12,58.7,High School,No,Yes,7.2,High,7,No,59.1,C,Pass
+STU0643,16,Female,4.0,73.8,9,49.3,Postgraduate,Yes,No,6.7,Medium,7,Yes,43.8,D,Pass
+STU0644,22,Female,1.5,81.8,12,52.2,None,Yes,Yes,8.7,Low,3,No,49.6,D,Pass
+STU0645,18,Female,4.0,59.1,9,45.7,Postgraduate,Yes,Yes,7.8,High,3,No,46.6,D,Pass
+STU0646,22,Female,4.0,81.4,8,50.2,High School,Yes,Yes,8.9,Low,2,No,54.7,C,Pass
+STU0647,17,Female,0.0,72.2,14,56.4,Postgraduate,Yes,No,5.3,High,2,Yes,45.4,D,Pass
+STU0648,18,Other,4.4,89.8,13,40.9,High School,Yes,No,7.0,Medium,7,Yes,55.6,C,Pass
+STU0649,18,Other,4.0,92.8,16,62.2,Graduate,Yes,No,5.1,High,4,No,57.3,C,Pass
+STU0650,17,Male,5.9,100.0,11,75.5,Postgraduate,Yes,Yes,6.7,Low,1,No,71.5,B,Pass
+STU0651,22,Female,8.2,83.7,14,48.4,Graduate,Yes,No,6.7,Low,3,Yes,61.3,C,Pass
+STU0652,19,Female,6.8,79.9,15,84.8,Graduate,Yes,Yes,7.8,Medium,10,Yes,72.1,B,Pass
+STU0653,18,Male,4.0,77.9,14,69.7,Postgraduate,No,Yes,7.1,Medium,3,Yes,65.3,B,Pass
+STU0654,17,Female,2.3,69.7,9,77.5,Graduate,Yes,No,7.7,Medium,6,No,49.2,D,Pass
+STU0655,18,Male,9.6,80.1,13,52.1,Postgraduate,Yes,No,7.8,High,4,Yes,68.3,B,Pass
+STU0656,21,Female,4.6,70.6,14,74.8,Graduate,Yes,No,9.6,High,5,No,62.6,C,Pass
+STU0657,22,Female,4.5,77.5,13,45.6,High School,Yes,No,6.6,Medium,3,Yes,44.0,D,Pass
+STU0658,19,Male,4.5,94.8,4,75.4,None,No,No,5.9,Low,7,No,55.2,C,Pass
+STU0659,21,Male,4.9,59.9,13,64.6,High School,No,Yes,7.3,Medium,5,No,51.2,C,Pass
+STU0660,21,Female,4.2,92.1,20,70.3,High School,Yes,Yes,6.0,Medium,2,No,66.3,B,Pass
+STU0661,17,Male,3.4,94.8,11,44.4,Graduate,Yes,Yes,8.8,Medium,6,Yes,60.8,C,Pass
+STU0662,21,Male,3.4,73.2,10,48.6,High School,Yes,No,6.7,High,3,No,30.7,F,Fail
+STU0663,18,Male,4.4,43.2,14,71.0,None,No,Yes,6.3,Low,2,Yes,54.1,C,Pass
+STU0664,22,Female,3.4,65.9,14,47.8,None,Yes,No,6.4,Low,7,Yes,45.4,D,Pass
+STU0665,15,Female,3.1,94.5,17,68.9,Postgraduate,Yes,Yes,7.9,Low,6,Yes,63.6,C,Pass
+STU0666,19,Female,4.7,74.7,7,41.5,Graduate,Yes,Yes,6.8,High,3,No,40.6,D,Pass
+STU0667,18,Male,4.0,60.0,15,74.7,High School,Yes,Yes,6.2,Medium,5,No,59.5,C,Pass
+STU0668,16,Female,7.5,67.4,15,43.5,Postgraduate,Yes,Yes,9.0,Medium,7,No,54.0,C,Pass
+STU0669,17,Female,0.0,87.6,12,70.3,None,Yes,No,6.0,Low,4,No,41.1,D,Pass
+STU0670,18,Male,6.7,83.2,14,71.4,Postgraduate,Yes,Yes,7.0,Low,4,Yes,90.9,A,Pass
+STU0671,19,Female,7.0,71.4,17,51.5,Graduate,Yes,Yes,7.8,Low,3,No,62.5,C,Pass
+STU0672,21,Female,0.4,69.5,16,70.7,High School,No,Yes,5.0,Medium,6,No,47.6,D,Pass
+STU0673,19,Female,3.8,69.1,8,65.9,Graduate,Yes,Yes,7.6,Low,4,No,53.1,C,Pass
+STU0674,16,Male,3.8,61.2,16,53.9,Graduate,No,Yes,5.7,Low,5,No,52.3,C,Pass
+STU0675,21,Male,1.7,99.2,12,46.9,Graduate,Yes,Yes,8.0,High,7,No,43.6,D,Pass
+STU0676,16,Male,2.9,70.2,13,32.6,Postgraduate,Yes,No,5.8,Medium,4,No,28.8,F,Fail
+STU0677,20,Male,2.3,93.3,13,67.2,High School,Yes,Yes,7.8,Medium,3,No,49.7,D,Pass
+STU0678,20,Female,8.0,97.8,12,38.5,High School,Yes,Yes,8.3,Low,1,Yes,66.0,B,Pass
+STU0679,18,Male,6.4,90.0,17,63.4,None,Yes,No,8.0,Medium,5,No,65.8,B,Pass
+STU0680,15,Female,7.0,68.5,12,58.0,High School,Yes,Yes,7.3,Medium,8,No,58.2,C,Pass
+STU0681,21,Male,5.9,81.1,8,72.2,High School,Yes,Yes,6.7,Low,5,Yes,75.0,B,Pass
+STU0682,22,Male,2.2,74.6,11,57.5,Postgraduate,No,Yes,6.3,Low,5,Yes,55.4,C,Pass
+STU0683,19,Female,3.5,61.4,13,57.1,None,Yes,Yes,8.8,High,3,No,41.7,D,Pass
+STU0684,22,Male,5.5,79.9,17,73.0,Graduate,Yes,No,6.2,High,3,No,64.5,C,Pass
+STU0685,15,Female,2.1,57.3,15,67.0,Graduate,Yes,Yes,5.8,Low,6,No,64.0,C,Pass
+STU0686,21,Male,5.9,92.8,9,66.7,Postgraduate,Yes,No,7.8,Medium,5,Yes,72.5,B,Pass
+STU0687,21,Male,4.0,68.0,20,69.0,Postgraduate,Yes,No,6.0,High,7,No,49.9,D,Pass
+STU0688,21,Female,3.8,78.0,14,39.0,Graduate,Yes,Yes,5.9,Low,6,No,49.0,D,Pass
+STU0689,21,Female,5.9,79.2,18,73.4,Postgraduate,No,Yes,5.3,Medium,8,Yes,70.6,B,Pass
+STU0690,15,Male,5.4,71.1,12,71.2,Graduate,Yes,Yes,6.4,High,8,Yes,61.2,C,Pass
+STU0691,18,Male,3.8,83.8,15,46.7,Postgraduate,Yes,Yes,6.9,High,8,No,50.9,C,Pass
+STU0692,17,Female,6.8,67.9,16,58.3,Graduate,Yes,No,7.3,Medium,9,No,60.1,C,Pass
+STU0693,17,Other,2.3,88.1,17,61.4,None,No,No,8.1,Low,5,Yes,56.7,C,Pass
+STU0694,17,Female,5.7,54.8,17,60.0,Graduate,No,Yes,7.6,Low,3,No,65.3,B,Pass
+STU0695,16,Male,5.7,76.9,16,67.0,Graduate,Yes,Yes,6.8,High,4,Yes,61.4,C,Pass
+STU0696,21,Other,3.9,100.0,11,83.5,High School,Yes,Yes,6.8,High,5,No,56.3,C,Pass
+STU0697,21,Male,5.2,60.0,10,78.2,High School,Yes,No,7.6,Medium,6,Yes,62.9,C,Pass
+STU0698,19,Male,2.0,64.8,14,42.3,Graduate,Yes,No,8.5,High,7,Yes,48.7,D,Pass
+STU0699,16,Female,6.3,82.7,16,71.3,Postgraduate,No,No,7.2,Medium,4,No,59.7,C,Pass
+STU0700,19,Male,4.1,77.7,12,81.9,None,Yes,Yes,6.4,Medium,6,Yes,67.1,B,Pass
+STU0701,22,Male,3.5,80.3,17,67.8,Graduate,Yes,No,5.8,High,13,No,56.3,C,Pass
+STU0702,20,Male,6.6,82.3,18,78.4,Graduate,Yes,Yes,5.3,Medium,3,No,71.3,B,Pass
+STU0703,19,Male,3.1,84.5,9,92.2,Postgraduate,Yes,Yes,7.8,Medium,7,No,69.6,B,Pass
+STU0704,19,Female,1.7,91.6,9,77.4,Postgraduate,Yes,Yes,7.7,Low,7,No,60.6,C,Pass
+STU0705,22,Female,1.4,81.1,12,65.7,Graduate,Yes,Yes,7.7,Medium,2,No,41.1,D,Pass
+STU0706,18,Male,5.7,71.4,14,77.7,Graduate,Yes,No,6.8,Medium,5,Yes,61.0,C,Pass
+STU0707,17,Female,1.9,85.1,10,64.2,High School,No,No,8.7,Low,2,Yes,51.0,C,Pass
+STU0708,21,Female,8.0,100.0,18,62.4,Graduate,Yes,Yes,6.4,High,4,No,71.1,B,Pass
+STU0709,16,Female,0.3,73.0,14,56.7,Graduate,Yes,No,8.1,Medium,3,Yes,46.0,D,Pass
+STU0710,20,Male,7.9,60.4,13,85.5,Postgraduate,Yes,Yes,7.0,High,3,No,68.0,B,Pass
+STU0711,22,Other,4.9,91.6,7,49.7,Graduate,Yes,No,6.3,Low,1,No,49.2,D,Pass
+STU0712,16,Female,4.3,73.2,7,85.0,High School,Yes,No,7.7,Medium,7,Yes,66.9,B,Pass
+STU0713,21,Male,3.4,42.4,14,69.5,Graduate,Yes,Yes,7.5,Low,4,No,63.7,C,Pass
+STU0714,18,Male,5.3,87.7,4,41.0,High School,Yes,No,7.4,High,9,Yes,49.5,D,Pass
+STU0715,19,Male,4.4,67.0,17,67.5,None,Yes,Yes,7.1,Low,4,No,60.5,C,Pass
+STU0716,22,Female,6.7,73.6,12,30.5,High School,Yes,Yes,7.0,Medium,6,No,36.8,F,Fail
+STU0717,20,Male,4.7,80.0,20,71.4,High School,Yes,No,9.9,High,3,No,53.8,C,Pass
+STU0718,17,Female,4.8,77.9,20,75.3,Postgraduate,Yes,No,8.4,Medium,8,Yes,77.9,B,Pass
+STU0719,21,Male,3.8,85.6,12,53.1,High School,No,No,7.9,High,6,No,46.9,D,Pass
+STU0720,15,Female,4.4,68.5,12,63.9,High School,Yes,No,7.1,High,5,Yes,44.1,D,Pass
+STU0721,15,Male,5.1,82.7,16,91.3,Postgraduate,Yes,Yes,8.2,Low,3,No,78.4,B,Pass
+STU0722,18,Female,1.1,71.1,19,54.4,High School,Yes,Yes,7.6,Low,11,No,50.9,C,Pass
+STU0723,17,Female,1.8,86.1,6,46.1,None,No,No,7.0,Low,7,No,32.9,F,Fail
+STU0724,15,Male,6.0,84.2,5,84.2,High School,Yes,Yes,6.6,Low,6,No,59.2,C,Pass
+STU0725,15,Male,4.8,61.0,10,91.4,High School,Yes,No,6.9,High,6,No,59.9,C,Pass
+STU0726,22,Male,4.1,91.3,15,62.1,High School,No,Yes,4.0,High,6,Yes,50.7,C,Pass
+STU0727,22,Female,4.5,67.0,14,77.2,None,No,No,7.3,Low,6,Yes,55.4,C,Pass
+STU0728,21,Female,5.2,87.1,17,82.1,Graduate,Yes,Yes,6.4,Medium,5,No,67.9,B,Pass
+STU0729,20,Male,3.4,80.5,8,50.9,High School,Yes,No,8.9,Medium,8,Yes,47.1,D,Pass
+STU0730,20,Male,2.9,100.0,3,54.7,High School,Yes,No,7.0,Low,6,No,50.1,C,Pass
+STU0731,21,Male,4.9,71.6,16,80.5,Postgraduate,Yes,No,5.6,Medium,8,No,60.3,C,Pass
+STU0732,16,Female,2.5,69.8,9,87.3,Graduate,Yes,Yes,6.9,Medium,13,No,60.9,C,Pass
+STU0733,21,Female,5.3,74.7,4,70.4,Postgraduate,Yes,No,5.7,Medium,4,No,49.7,D,Pass
+STU0734,17,Female,1.1,70.5,13,48.8,Graduate,Yes,No,7.6,Medium,1,No,41.5,D,Pass
+STU0735,15,Male,6.6,87.0,16,91.8,High School,Yes,No,7.3,Medium,4,No,57.3,C,Pass
+STU0736,20,Male,5.4,50.8,12,54.0,Graduate,Yes,No,8.1,Low,2,No,50.3,C,Pass
+STU0737,21,Other,5.0,59.2,11,57.0,None,Yes,Yes,6.1,High,7,No,48.9,D,Pass
+STU0738,20,Male,6.5,59.0,12,67.1,None,Yes,Yes,7.0,Medium,4,No,49.7,D,Pass
+STU0739,20,Female,7.8,89.3,11,85.3,Graduate,Yes,Yes,5.4,High,5,No,75.7,B,Pass
+STU0740,22,Male,6.5,100.0,7,74.8,Graduate,Yes,Yes,7.8,Medium,8,No,74.2,B,Pass
+STU0741,16,Male,0.8,73.4,10,68.2,Graduate,Yes,No,7.6,High,6,No,28.3,F,Fail
+STU0742,17,Female,1.9,72.5,15,68.9,Postgraduate,Yes,Yes,7.6,High,5,Yes,56.7,C,Pass
+STU0743,19,Other,3.3,76.1,14,62.7,High School,Yes,Yes,7.0,Medium,2,Yes,42.4,D,Pass
+STU0744,20,Other,4.6,92.4,13,70.4,Graduate,Yes,Yes,7.5,Medium,6,No,62.4,C,Pass
+STU0745,17,Male,5.5,61.1,9,30.0,Graduate,Yes,Yes,8.9,High,5,No,37.9,F,Fail
+STU0746,18,Male,3.0,78.6,12,57.6,Postgraduate,Yes,Yes,6.7,Medium,6,Yes,45.3,D,Pass
+STU0747,16,Female,4.9,89.6,4,65.6,Postgraduate,Yes,Yes,7.2,High,3,No,67.4,B,Pass
+STU0748,19,Female,3.0,82.5,13,44.7,Postgraduate,Yes,Yes,5.7,High,6,No,47.2,D,Pass
+STU0749,20,Female,3.3,77.8,18,67.8,High School,No,Yes,6.0,Medium,6,No,49.0,D,Pass
+STU0750,21,Male,1.7,90.0,7,58.9,Graduate,Yes,No,7.1,Low,4,No,58.5,C,Pass
+STU0751,20,Female,2.7,40.0,10,88.3,High School,No,Yes,8.3,Low,7,Yes,52.7,C,Pass
+STU0752,16,Female,1.8,85.2,14,85.6,High School,No,Yes,6.7,High,4,No,49.3,D,Pass
+STU0753,22,Female,2.5,65.2,18,55.0,Postgraduate,Yes,No,6.7,Medium,0,No,36.5,F,Fail
+STU0754,16,Female,6.6,47.5,11,59.7,None,Yes,No,6.5,Low,9,No,59.9,C,Pass
+STU0755,15,Male,2.6,82.7,10,60.9,Postgraduate,Yes,No,6.4,Medium,1,Yes,57.2,C,Pass
+STU0756,20,Other,9.8,95.6,5,55.2,High School,Yes,No,7.4,Medium,6,Yes,67.3,B,Pass
+STU0757,22,Female,5.5,72.9,13,64.9,Postgraduate,Yes,Yes,5.2,Low,4,No,66.9,B,Pass
+STU0758,17,Female,4.9,89.3,20,50.6,High School,No,No,8.5,Low,5,Yes,58.8,C,Pass
+STU0759,16,Female,2.8,99.2,14,45.0,High School,Yes,Yes,6.2,Medium,6,No,47.6,D,Pass
+STU0760,16,Female,5.9,94.7,12,71.3,High School,Yes,Yes,7.9,Low,8,No,69.4,B,Pass
+STU0761,18,Female,3.3,99.6,14,71.4,Graduate,Yes,No,5.5,High,4,No,56.7,C,Pass
+STU0762,18,Male,4.7,86.1,12,49.9,High School,No,Yes,7.8,Medium,5,No,44.7,D,Pass
+STU0763,18,Male,9.6,76.1,9,75.4,Graduate,Yes,No,7.8,High,10,No,65.6,B,Pass
+STU0764,16,Male,4.3,51.0,16,52.5,None,Yes,No,7.5,High,5,No,39.2,F,Fail
+STU0765,19,Male,6.8,71.3,13,65.8,None,Yes,Yes,5.8,Medium,7,No,57.7,C,Pass
+STU0766,22,Male,3.1,62.4,13,74.3,None,Yes,No,7.3,Medium,6,No,41.9,D,Pass
+STU0767,17,Male,4.4,100.0,9,61.5,Graduate,Yes,Yes,5.6,Medium,4,No,52.0,C,Pass
+STU0768,16,Male,8.0,72.4,18,68.8,Postgraduate,No,Yes,6.7,Medium,3,No,71.7,B,Pass
+STU0769,21,Male,3.2,76.8,15,54.3,Postgraduate,Yes,No,8.2,Medium,5,No,48.6,D,Pass
+STU0770,21,Male,8.1,83.3,10,59.1,High School,No,Yes,8.0,High,4,Yes,61.7,C,Pass
+STU0771,15,Male,5.9,75.7,17,58.9,Graduate,Yes,No,7.0,Medium,4,No,50.4,C,Pass
+STU0772,21,Female,3.4,100.0,11,50.8,Graduate,No,Yes,5.8,High,5,No,39.0,F,Fail
+STU0773,22,Female,5.8,65.7,9,59.3,High School,Yes,Yes,7.8,Low,2,No,53.2,C,Pass
+STU0774,22,Male,6.4,77.9,9,38.8,Graduate,Yes,No,7.0,Low,7,No,49.1,D,Pass
+STU0775,20,Female,5.7,63.9,5,54.6,Graduate,No,No,4.2,High,3,No,39.5,F,Fail
+STU0776,19,Female,1.4,55.2,14,57.7,High School,Yes,Yes,7.9,Medium,5,No,50.0,C,Pass
+STU0777,19,Male,3.0,65.8,5,58.2,None,Yes,Yes,7.0,Medium,6,No,44.2,D,Pass
+STU0778,17,Female,4.0,74.4,8,58.4,High School,Yes,No,8.4,Medium,8,No,56.7,C,Pass
+STU0779,19,Female,4.4,68.6,4,61.1,Graduate,Yes,Yes,5.7,Low,5,No,58.6,C,Pass
+STU0780,17,Female,5.7,64.6,12,69.2,None,Yes,No,4.0,Medium,3,Yes,44.2,D,Pass
+STU0781,21,Male,4.9,53.9,12,75.1,High School,Yes,Yes,7.3,Low,3,No,67.0,B,Pass
+STU0782,19,Female,1.8,73.8,11,52.3,High School,Yes,No,7.3,Medium,5,No,33.4,F,Fail
+STU0783,20,Male,5.3,52.4,8,44.0,None,Yes,No,5.0,Medium,7,No,38.4,F,Fail
+STU0784,17,Female,5.7,86.4,8,46.4,High School,Yes,Yes,5.8,High,5,Yes,47.4,D,Pass
+STU0785,18,Other,5.6,76.2,14,54.7,Postgraduate,Yes,No,10.0,Medium,5,Yes,69.5,B,Pass
+STU0786,18,Female,6.7,53.1,10,56.7,None,Yes,No,6.6,Low,10,No,57.6,C,Pass
+STU0787,19,Female,6.2,70.4,14,50.5,Graduate,No,No,7.9,Medium,2,Yes,48.5,D,Pass
+STU0788,19,Male,5.4,63.7,9,42.6,High School,Yes,Yes,6.2,Low,6,No,48.1,D,Pass
+STU0789,21,Other,4.4,79.8,13,55.2,Graduate,Yes,No,4.5,Low,7,No,56.1,C,Pass
+STU0790,17,Female,1.2,95.1,18,64.7,Graduate,No,No,6.8,Low,4,No,57.6,C,Pass
+STU0791,22,Male,5.4,46.9,15,70.9,High School,Yes,No,6.7,Medium,11,Yes,57.6,C,Pass
+STU0792,21,Female,4.9,76.7,11,53.6,Postgraduate,Yes,No,6.5,Low,5,No,51.1,C,Pass
+STU0793,22,Male,5.0,72.6,14,55.8,Graduate,Yes,Yes,6.9,Medium,4,No,50.9,C,Pass
+STU0794,17,Male,1.9,85.1,12,48.1,Postgraduate,Yes,No,7.3,High,1,No,42.2,D,Pass
+STU0795,20,Female,2.3,78.2,13,61.5,Graduate,Yes,Yes,6.8,Medium,11,No,58.4,C,Pass
+STU0796,16,Male,6.6,63.7,11,49.3,Postgraduate,Yes,Yes,5.5,Low,3,No,60.8,C,Pass
+STU0797,18,Female,4.4,70.2,12,70.6,Graduate,Yes,Yes,7.6,Low,2,Yes,63.2,C,Pass
+STU0798,16,Male,5.9,63.1,13,35.2,Postgraduate,Yes,Yes,4.7,Medium,7,No,50.6,C,Pass
+STU0799,16,Male,4.6,91.1,9,56.6,Graduate,Yes,Yes,4.5,High,5,No,50.7,C,Pass
+STU0800,15,Other,4.6,75.3,8,66.5,Graduate,Yes,Yes,7.9,Low,1,No,65.9,B,Pass
+STU0801,17,Male,6.4,100.0,7,64.8,Graduate,Yes,Yes,7.6,High,6,No,73.3,B,Pass
+STU0802,15,Female,3.5,74.1,6,100.0,Postgraduate,Yes,No,6.9,Medium,4,No,66.8,B,Pass
+STU0803,22,Female,4.7,64.4,8,67.2,Postgraduate,Yes,Yes,5.3,Medium,9,Yes,66.3,B,Pass
+STU0804,15,Female,3.6,52.3,13,46.9,High School,Yes,Yes,6.2,High,4,No,35.7,F,Fail
+STU0805,22,Female,3.6,48.0,9,60.6,Graduate,Yes,Yes,6.7,Medium,9,No,48.4,D,Pass
+STU0806,16,Female,3.9,51.2,15,35.4,High School,No,Yes,5.1,High,5,No,32.3,F,Fail
+STU0807,15,Male,4.9,79.0,13,60.8,Graduate,No,Yes,6.1,Medium,2,No,53.3,C,Pass
+STU0808,20,Female,3.5,82.6,5,49.5,High School,Yes,No,7.8,Medium,8,No,55.2,C,Pass
+STU0809,17,Male,7.0,51.3,15,75.7,High School,Yes,No,8.7,Medium,2,No,58.0,C,Pass
+STU0810,16,Female,2.7,88.4,16,53.8,Postgraduate,Yes,No,6.5,Medium,7,No,53.8,C,Pass
+STU0811,17,Female,4.1,67.8,9,60.2,High School,No,No,7.9,Medium,9,Yes,39.1,F,Fail
+STU0812,20,Female,3.6,77.2,14,52.5,Graduate,Yes,Yes,4.7,Low,3,No,57.1,C,Pass
+STU0813,19,Female,7.4,99.2,9,88.1,Graduate,Yes,Yes,7.8,Low,3,No,86.3,A,Pass
+STU0814,15,Female,4.9,88.5,13,57.2,High School,Yes,Yes,6.0,Medium,6,Yes,56.4,C,Pass
+STU0815,16,Female,6.6,71.0,7,89.5,High School,Yes,No,7.4,Medium,7,Yes,57.3,C,Pass
+STU0816,22,Female,1.5,61.6,5,74.2,Graduate,Yes,Yes,6.7,High,2,No,48.7,D,Pass
+STU0817,18,Male,5.0,42.7,11,69.2,High School,Yes,No,8.6,Medium,9,Yes,54.4,C,Pass
+STU0818,17,Male,6.3,64.2,12,67.5,Postgraduate,Yes,Yes,6.0,Medium,5,No,66.2,B,Pass
+STU0819,21,Female,4.7,71.8,11,67.9,Postgraduate,Yes,Yes,7.8,Low,5,No,74.5,B,Pass
+STU0820,20,Female,6.6,60.2,8,33.1,High School,Yes,No,6.7,High,3,No,34.2,F,Fail
+STU0821,15,Male,3.5,73.0,11,57.8,High School,Yes,No,6.8,Medium,6,No,42.4,D,Pass
+STU0822,17,Male,7.3,76.2,14,74.7,Graduate,Yes,No,6.8,High,6,No,56.3,C,Pass
+STU0823,20,Male,9.1,71.6,12,61.3,Graduate,No,No,6.0,High,4,Yes,60.5,C,Pass
+STU0824,17,Other,3.8,65.2,13,40.9,High School,Yes,No,7.0,Low,6,Yes,49.4,D,Pass
+STU0825,19,Female,3.6,77.5,10,61.2,None,Yes,No,6.9,Medium,8,Yes,47.1,D,Pass
+STU0826,21,Male,7.4,81.6,17,87.6,Graduate,Yes,No,7.3,High,4,Yes,77.6,B,Pass
+STU0827,20,Male,7.7,58.6,8,80.7,Postgraduate,Yes,Yes,7.1,Low,6,No,75.8,B,Pass
+STU0828,17,Male,3.5,96.2,14,61.1,High School,Yes,No,8.0,Medium,4,No,52.6,C,Pass
+STU0829,22,Male,3.7,73.5,17,76.3,Graduate,Yes,No,8.1,High,9,Yes,55.5,C,Pass
+STU0830,21,Male,3.9,75.3,14,56.5,Postgraduate,Yes,Yes,5.7,Medium,5,Yes,56.6,C,Pass
+STU0831,19,Female,1.8,85.6,12,36.4,Graduate,Yes,No,8.0,High,7,No,22.7,F,Fail
+STU0832,19,Other,2.7,78.5,10,48.1,Graduate,Yes,No,5.6,High,2,No,41.5,D,Pass
+STU0833,19,Male,2.5,89.3,17,85.4,Graduate,Yes,Yes,7.7,Medium,4,Yes,70.2,B,Pass
+STU0834,15,Male,3.0,79.3,7,57.9,Postgraduate,Yes,Yes,7.7,Low,4,No,57.6,C,Pass
+STU0835,20,Male,4.4,65.8,9,58.3,Graduate,Yes,Yes,4.7,Medium,7,Yes,58.7,C,Pass
+STU0836,17,Male,5.0,80.4,11,57.5,Postgraduate,Yes,No,7.1,Low,3,Yes,64.6,C,Pass
+STU0837,17,Male,7.6,57.8,17,90.6,Graduate,Yes,No,6.4,High,4,Yes,71.3,B,Pass
+STU0838,21,Male,2.5,76.6,14,86.4,Graduate,Yes,Yes,6.1,High,3,No,61.1,C,Pass
+STU0839,21,Male,6.5,74.5,9,95.3,High School,Yes,Yes,8.6,Medium,3,Yes,69.3,B,Pass
+STU0840,20,Female,4.1,71.9,11,59.6,High School,Yes,Yes,6.2,Medium,2,Yes,52.6,C,Pass
+STU0841,19,Female,4.4,73.1,10,66.4,Graduate,No,No,6.0,Low,10,Yes,59.4,C,Pass
+STU0842,17,Female,5.8,46.8,10,39.3,High School,No,Yes,7.1,High,3,No,32.1,F,Fail
+STU0843,17,Male,2.3,66.8,16,84.2,Graduate,Yes,Yes,7.8,Medium,2,Yes,69.8,B,Pass
+STU0844,19,Female,5.3,76.4,7,44.5,High School,Yes,No,6.8,High,6,Yes,41.5,D,Pass
+STU0845,18,Other,4.8,77.4,19,65.3,Postgraduate,Yes,Yes,8.4,Medium,4,No,63.4,C,Pass
+STU0846,18,Male,5.5,59.6,16,45.5,High School,Yes,Yes,7.6,High,6,Yes,49.0,D,Pass
+STU0847,19,Male,5.1,94.0,17,53.2,Postgraduate,Yes,Yes,4.4,Medium,2,No,63.2,C,Pass
+STU0848,21,Female,9.4,62.0,11,49.4,Graduate,Yes,Yes,6.4,Medium,4,Yes,66.6,B,Pass
+STU0849,15,Male,3.2,89.5,12,52.9,High School,No,Yes,6.3,Medium,9,Yes,54.1,C,Pass
+STU0850,21,Male,3.4,81.4,7,53.9,Graduate,Yes,No,7.6,High,10,No,33.5,F,Fail
+STU0851,21,Female,3.3,65.3,10,53.8,High School,Yes,No,4.0,Medium,5,Yes,53.1,C,Pass
+STU0852,22,Female,3.4,100.0,14,74.5,High School,No,No,10.0,Medium,2,Yes,67.5,B,Pass
+STU0853,22,Male,3.2,57.1,18,45.4,High School,Yes,No,7.6,Low,3,No,41.5,D,Pass
+STU0854,17,Female,6.9,88.8,8,65.3,None,No,Yes,7.2,Low,7,No,60.7,C,Pass
+STU0855,21,Female,7.3,90.0,11,80.3,Postgraduate,Yes,Yes,8.4,Medium,6,No,69.5,B,Pass
+STU0856,17,Male,3.4,64.9,12,54.3,None,Yes,Yes,9.8,Low,4,No,38.2,F,Fail
+STU0857,18,Female,2.8,95.9,7,51.2,Graduate,Yes,No,8.0,Low,2,No,47.1,D,Pass
+STU0858,21,Male,5.4,71.2,15,58.5,High School,Yes,No,8.1,Medium,7,No,48.9,D,Pass
+STU0859,19,Male,3.4,79.3,10,79.7,Graduate,Yes,Yes,7.2,Low,6,No,64.3,C,Pass
+STU0860,20,Female,5.8,78.9,12,64.9,High School,Yes,Yes,6.8,High,7,No,50.8,C,Pass
+STU0861,20,Male,4.9,73.0,11,54.0,Graduate,Yes,Yes,6.4,Medium,7,Yes,53.1,C,Pass
+STU0862,21,Male,1.5,87.2,9,69.3,Graduate,Yes,Yes,6.0,Medium,3,Yes,58.5,C,Pass
+STU0863,15,Male,7.6,86.9,12,45.5,Graduate,Yes,No,6.2,Low,3,No,53.9,C,Pass
+STU0864,21,Female,8.1,48.8,12,72.2,High School,Yes,Yes,5.4,Medium,4,No,64.7,C,Pass
+STU0865,19,Female,3.3,94.6,11,68.1,Graduate,No,No,6.9,Medium,5,No,56.6,C,Pass
+STU0866,18,Male,3.7,50.1,10,57.4,High School,Yes,Yes,5.0,High,2,No,55.1,C,Pass
+STU0867,18,Female,5.1,90.5,14,49.4,None,Yes,No,7.2,High,4,No,49.1,D,Pass
+STU0868,21,Male,5.2,91.9,19,48.7,Graduate,No,No,7.0,Low,7,No,55.1,C,Pass
+STU0869,22,Female,5.8,58.6,13,70.0,Graduate,No,No,7.2,Medium,5,No,51.0,C,Pass
+STU0870,17,Male,8.5,68.8,16,80.4,Graduate,Yes,Yes,6.4,Low,6,No,78.0,B,Pass
+STU0871,16,Female,4.1,58.4,7,52.4,Graduate,Yes,Yes,10.0,High,4,Yes,49.9,D,Pass
+STU0872,15,Other,2.9,71.8,13,68.9,High School,Yes,Yes,8.6,High,9,No,48.3,D,Pass
+STU0873,15,Female,1.7,70.4,8,30.7,High School,Yes,Yes,5.5,Medium,2,No,36.7,F,Fail
+STU0874,16,Male,3.0,86.7,7,53.2,None,Yes,No,7.3,Medium,6,No,34.7,F,Fail
+STU0875,20,Female,4.4,94.7,10,61.5,Graduate,Yes,No,6.3,High,4,Yes,55.0,C,Pass
+STU0876,20,Male,8.1,95.9,17,48.4,Graduate,No,Yes,5.8,Medium,3,No,61.4,C,Pass
+STU0877,20,Female,3.5,66.6,16,48.0,High School,Yes,Yes,5.4,Medium,6,Yes,48.2,D,Pass
+STU0878,18,Male,4.9,71.9,13,52.0,Graduate,No,Yes,7.5,High,7,Yes,49.2,D,Pass
+STU0879,19,Male,4.5,49.7,6,66.4,Graduate,Yes,No,6.2,Medium,8,No,49.1,D,Pass
+STU0880,15,Male,6.9,62.9,12,59.2,Graduate,Yes,No,8.2,Medium,9,Yes,54.7,C,Pass
+STU0881,16,Male,9.6,89.5,14,30.0,Graduate,Yes,Yes,8.2,High,5,Yes,61.5,C,Pass
+STU0882,17,Female,3.4,99.2,13,30.2,Graduate,No,Yes,8.6,Medium,4,Yes,39.4,F,Fail
+STU0883,21,Female,3.5,56.5,5,52.9,Graduate,Yes,No,6.0,Medium,3,No,44.1,D,Pass
+STU0884,17,Female,6.6,66.1,9,68.9,High School,Yes,No,7.6,Low,7,Yes,66.4,B,Pass
+STU0885,21,Female,5.9,74.6,12,30.0,High School,No,Yes,7.8,Medium,4,No,34.7,F,Fail
+STU0886,18,Female,8.2,79.2,15,54.5,High School,Yes,No,6.4,Low,8,No,60.9,C,Pass
+STU0887,15,Male,5.7,62.9,4,54.1,Graduate,Yes,No,6.1,Medium,8,No,43.6,D,Pass
+STU0888,19,Male,3.8,81.4,12,82.8,Postgraduate,No,No,8.9,Medium,1,No,68.0,B,Pass
+STU0889,15,Male,5.7,67.9,13,56.2,Graduate,No,No,7.3,High,5,No,40.4,D,Pass
+STU0890,21,Male,6.7,74.8,16,67.7,High School,Yes,Yes,7.8,Medium,4,Yes,62.8,C,Pass
+STU0891,20,Male,6.1,83.2,15,64.1,Graduate,Yes,No,6.0,High,3,Yes,54.2,C,Pass
+STU0892,17,Male,5.5,75.1,15,30.0,Postgraduate,Yes,Yes,5.5,Medium,2,No,39.7,F,Fail
+STU0893,15,Male,6.6,68.5,9,73.5,Postgraduate,Yes,Yes,6.3,High,8,No,70.8,B,Pass
+STU0894,17,Male,6.8,73.4,5,65.2,Graduate,Yes,Yes,6.9,Medium,8,Yes,66.9,B,Pass
+STU0895,16,Female,7.3,73.7,11,69.6,Postgraduate,Yes,Yes,5.7,Medium,3,Yes,71.4,B,Pass
+STU0896,16,Male,5.8,69.4,17,100.0,None,Yes,Yes,7.0,Low,4,No,72.0,B,Pass
+STU0897,17,Female,4.2,71.1,18,30.7,High School,Yes,Yes,5.0,Medium,12,No,44.9,D,Pass
+STU0898,19,Female,4.8,99.0,15,87.9,None,Yes,No,5.7,Medium,3,No,60.6,C,Pass
+STU0899,22,Female,6.9,83.4,14,57.7,Graduate,Yes,No,7.8,Medium,3,No,61.7,C,Pass
+STU0900,19,Male,2.9,70.6,14,66.3,None,Yes,Yes,7.7,High,4,No,42.4,D,Pass
+STU0901,22,Male,5.2,85.5,10,61.3,Graduate,Yes,Yes,6.5,High,3,No,52.1,C,Pass
+STU0902,15,Male,3.7,70.0,12,55.6,Graduate,Yes,No,5.8,High,4,No,48.7,D,Pass
+STU0903,17,Male,4.6,92.6,19,53.5,High School,Yes,Yes,5.8,Medium,6,No,59.2,C,Pass
+STU0904,18,Male,7.1,80.5,9,66.9,Postgraduate,Yes,No,6.6,High,4,No,62.6,C,Pass
+STU0905,19,Female,4.9,73.4,19,39.2,High School,Yes,Yes,7.8,High,3,Yes,42.0,D,Pass
+STU0906,21,Female,4.6,81.7,11,73.3,High School,No,No,8.1,Low,8,Yes,60.0,C,Pass
+STU0907,19,Female,1.8,51.4,18,55.8,Graduate,Yes,Yes,6.4,Medium,2,No,46.7,D,Pass
+STU0908,20,Male,6.0,58.1,7,45.0,None,Yes,No,5.6,Low,3,No,39.5,F,Fail
+STU0909,16,Male,5.8,57.1,15,55.2,Graduate,Yes,No,7.3,Low,7,Yes,65.6,B,Pass
+STU0910,19,Female,8.8,77.1,10,80.9,Postgraduate,Yes,No,6.0,Low,3,Yes,68.1,B,Pass
+STU0911,21,Male,3.9,100.0,7,54.0,Postgraduate,No,No,6.4,Low,7,No,50.0,C,Pass
+STU0912,19,Female,4.9,100.0,13,67.4,Postgraduate,Yes,Yes,8.6,Medium,5,No,62.8,C,Pass
+STU0913,21,Female,5.0,84.6,17,51.0,High School,Yes,No,8.0,Medium,2,Yes,39.7,F,Fail
+STU0914,22,Male,7.7,82.5,9,73.4,Graduate,Yes,Yes,7.2,Medium,9,Yes,65.1,B,Pass
+STU0915,20,Male,4.3,48.0,7,72.3,None,Yes,No,5.5,High,4,No,47.2,D,Pass
+STU0916,22,Male,5.1,66.9,12,89.7,High School,Yes,Yes,7.3,High,3,Yes,67.8,B,Pass
+STU0917,21,Male,5.7,63.2,12,59.4,None,Yes,No,8.3,High,1,No,52.5,C,Pass
+STU0918,19,Male,4.9,65.7,15,72.0,High School,Yes,No,6.5,Medium,2,Yes,67.5,B,Pass
+STU0919,20,Male,3.6,72.5,16,63.5,Postgraduate,Yes,Yes,8.6,Medium,6,Yes,63.8,C,Pass
+STU0920,17,Male,4.9,67.9,12,81.4,High School,Yes,Yes,8.6,Medium,10,Yes,68.2,B,Pass
+STU0921,17,Female,6.6,45.3,20,51.2,Graduate,Yes,Yes,9.0,Low,6,Yes,61.4,C,Pass
+STU0922,16,Female,2.4,86.2,13,73.2,Graduate,Yes,No,7.4,Low,6,Yes,50.6,C,Pass
+STU0923,15,Male,4.8,58.9,11,59.1,Graduate,Yes,Yes,7.7,Medium,2,Yes,49.8,D,Pass
+STU0924,20,Female,3.1,78.6,6,61.0,Postgraduate,Yes,No,8.7,High,4,No,48.4,D,Pass
+STU0925,19,Female,6.9,100.0,11,63.4,High School,Yes,No,7.5,Low,5,Yes,71.2,B,Pass
+STU0926,15,Female,1.5,61.2,11,65.8,Graduate,Yes,No,6.4,Low,8,No,52.0,C,Pass
+STU0927,17,Female,3.4,40.0,16,60.3,Graduate,No,No,6.5,Low,5,Yes,46.5,D,Pass
+STU0928,19,Male,5.3,70.7,14,65.2,None,Yes,Yes,7.3,Medium,3,No,58.7,C,Pass
+STU0929,15,Male,7.6,91.5,8,85.7,Graduate,Yes,No,5.5,Medium,1,Yes,82.9,A,Pass
+STU0930,20,Female,4.4,100.0,13,76.8,Postgraduate,Yes,No,6.8,Medium,7,Yes,74.3,B,Pass
+STU0931,20,Female,3.4,56.6,15,75.0,None,Yes,No,8.3,Low,7,No,58.7,C,Pass
+STU0932,15,Female,8.3,82.5,19,55.2,None,Yes,Yes,4.4,Medium,4,No,55.8,C,Pass
+STU0933,21,Other,1.6,68.0,16,48.7,High School,No,No,8.8,Low,4,No,45.7,D,Pass
+STU0934,20,Female,0.1,73.4,16,76.3,Graduate,No,Yes,8.3,Medium,4,No,52.3,C,Pass
+STU0935,18,Male,5.4,100.0,13,75.1,Graduate,Yes,No,6.4,Low,9,No,71.4,B,Pass
+STU0936,17,Male,3.5,52.5,14,84.1,Graduate,Yes,No,7.7,High,1,No,57.0,C,Pass
+STU0937,16,Male,2.5,78.8,17,52.9,Graduate,Yes,No,7.0,Medium,3,No,46.3,D,Pass
+STU0938,16,Female,5.9,82.0,7,58.6,Postgraduate,Yes,No,8.5,Medium,4,No,51.9,C,Pass
+STU0939,18,Female,5.0,91.3,11,37.4,Graduate,Yes,Yes,8.2,Medium,3,No,47.9,D,Pass
+STU0940,15,Female,3.4,76.5,9,56.1,Postgraduate,Yes,No,5.3,Medium,3,No,54.7,C,Pass
+STU0941,20,Female,1.9,79.6,14,76.9,Postgraduate,Yes,No,7.7,Low,8,Yes,63.6,C,Pass
+STU0942,18,Female,6.2,69.1,17,55.0,Graduate,Yes,Yes,6.8,Medium,11,Yes,65.2,B,Pass
+STU0943,18,Female,5.8,79.0,10,71.6,Graduate,No,No,7.1,Medium,4,No,60.9,C,Pass
+STU0944,20,Female,4.3,69.9,3,59.1,Postgraduate,Yes,Yes,6.1,Medium,2,No,51.9,C,Pass
+STU0945,17,Male,8.2,84.3,11,66.9,Postgraduate,Yes,No,9.1,Medium,3,No,72.8,B,Pass
+STU0946,20,Female,2.4,69.5,16,44.8,None,Yes,Yes,8.2,High,4,No,34.6,F,Fail
+STU0947,22,Female,1.4,80.7,15,63.3,None,No,No,6.1,High,2,Yes,49.7,D,Pass
+STU0948,20,Male,3.1,74.6,14,30.0,Postgraduate,Yes,Yes,5.4,Low,7,Yes,51.6,C,Pass
+STU0949,21,Male,4.4,91.9,11,59.2,High School,No,Yes,6.5,Medium,2,Yes,55.9,C,Pass
+STU0950,19,Female,5.0,74.2,7,37.5,Postgraduate,Yes,Yes,7.5,Low,11,No,46.3,D,Pass
+STU0951,15,Male,4.0,48.4,15,80.1,High School,Yes,Yes,7.3,Medium,5,No,57.6,C,Pass
+STU0952,16,Male,5.2,93.9,9,73.7,High School,Yes,No,8.5,Medium,5,Yes,62.9,C,Pass
+STU0953,16,Male,2.0,61.4,20,69.0,None,No,Yes,7.9,Low,4,No,44.0,D,Pass
+STU0954,18,Female,7.4,65.2,15,84.8,High School,Yes,No,8.2,High,4,Yes,66.4,B,Pass
+STU0955,21,Female,4.3,66.1,10,47.8,High School,Yes,No,7.4,Medium,4,Yes,42.5,D,Pass
+STU0956,18,Male,6.7,95.6,10,88.2,Graduate,Yes,No,5.3,Medium,3,No,74.9,B,Pass
+STU0957,18,Male,5.2,43.0,12,76.0,Graduate,No,No,6.8,Low,5,Yes,67.6,B,Pass
+STU0958,15,Other,5.4,100.0,12,58.5,Postgraduate,No,Yes,8.3,Medium,9,No,53.0,C,Pass
+STU0959,18,Female,5.6,90.8,17,79.0,Graduate,No,Yes,6.9,High,5,No,72.2,B,Pass
+STU0960,18,Female,5.4,78.3,13,45.4,Graduate,No,Yes,7.6,Medium,2,No,47.6,D,Pass
+STU0961,19,Male,5.8,74.2,10,49.6,Graduate,Yes,Yes,6.6,High,6,Yes,48.7,D,Pass
+STU0962,15,Male,7.2,79.3,20,52.9,Graduate,Yes,No,5.8,Low,7,No,64.9,C,Pass
+STU0963,17,Male,4.9,82.8,13,54.1,Graduate,Yes,Yes,6.9,Medium,5,No,52.6,C,Pass
+STU0964,21,Female,5.9,84.7,16,46.2,None,Yes,No,7.4,High,7,No,42.9,D,Pass
+STU0965,17,Male,4.3,83.3,10,80.3,None,No,Yes,6.2,Medium,7,No,54.7,C,Pass
+STU0966,20,Male,7.4,76.3,14,58.1,None,No,No,6.7,Low,8,Yes,53.8,C,Pass
+STU0967,19,Male,3.1,72.0,14,67.3,High School,Yes,Yes,5.9,Medium,7,Yes,61.4,C,Pass
+STU0968,16,Male,8.1,72.7,5,53.4,Graduate,Yes,Yes,8.3,Medium,3,No,56.0,C,Pass
+STU0969,20,Female,4.4,72.1,20,34.7,High School,No,No,6.6,Medium,4,No,30.0,F,Fail
+STU0970,17,Male,1.6,92.0,18,66.1,Postgraduate,Yes,Yes,8.7,High,4,Yes,62.0,C,Pass
+STU0971,15,Female,4.8,83.9,11,33.3,Postgraduate,Yes,No,8.8,High,3,Yes,38.9,F,Fail
+STU0972,16,Female,3.1,40.0,8,61.0,Postgraduate,Yes,No,6.9,Medium,7,No,39.9,F,Fail
+STU0973,22,Male,6.2,84.8,14,41.5,Postgraduate,Yes,Yes,5.8,Low,7,Yes,68.3,B,Pass
+STU0974,18,Female,3.2,77.9,13,91.8,High School,Yes,No,4.5,Medium,3,Yes,60.7,C,Pass
+STU0975,15,Other,3.6,74.7,14,75.7,Graduate,Yes,Yes,5.2,High,7,Yes,50.4,C,Pass
+STU0976,16,Other,0.7,69.2,13,63.6,High School,Yes,No,5.4,High,8,Yes,47.8,D,Pass
+STU0977,17,Male,3.6,91.9,15,81.0,Postgraduate,No,Yes,8.7,Low,3,No,67.7,B,Pass
+STU0978,20,Male,0.0,89.2,18,49.3,Postgraduate,Yes,No,7.1,Medium,4,Yes,47.0,D,Pass
+STU0979,18,Male,1.3,63.4,15,70.2,Postgraduate,Yes,Yes,7.5,Medium,7,Yes,56.9,C,Pass
+STU0980,18,Female,6.0,81.1,8,65.0,Graduate,No,Yes,4.3,Low,1,Yes,66.6,B,Pass
+STU0981,21,Female,6.1,60.4,18,66.0,Graduate,Yes,Yes,5.6,Medium,4,Yes,60.7,C,Pass
+STU0982,15,Female,5.4,54.3,19,81.1,None,Yes,Yes,8.1,Medium,2,No,67.6,B,Pass
+STU0983,20,Male,2.6,65.6,20,73.0,None,No,Yes,7.3,Low,2,Yes,50.5,C,Pass
+STU0984,18,Male,4.4,87.9,8,66.3,Graduate,Yes,No,6.8,High,5,No,55.0,C,Pass
+STU0985,16,Female,4.5,89.3,13,37.2,Graduate,No,No,7.7,High,6,Yes,45.6,D,Pass
+STU0986,21,Female,2.2,82.7,4,47.6,Postgraduate,Yes,Yes,9.0,High,5,Yes,43.4,D,Pass
+STU0987,21,Female,7.5,85.9,15,60.2,None,Yes,Yes,6.7,Low,4,Yes,61.6,C,Pass
+STU0988,19,Male,6.3,82.7,10,63.4,Postgraduate,Yes,Yes,7.1,Medium,5,Yes,72.1,B,Pass
+STU0989,17,Male,4.1,65.4,20,45.0,Graduate,Yes,Yes,7.2,Medium,7,No,43.3,D,Pass
+STU0990,15,Male,4.6,81.5,9,98.2,Postgraduate,Yes,Yes,9.9,Medium,4,No,71.8,B,Pass
+STU0991,20,Male,4.9,87.0,6,84.7,Postgraduate,Yes,Yes,4.5,Medium,2,No,73.9,B,Pass
+STU0992,22,Male,0.4,86.3,11,71.0,Postgraduate,No,No,7.8,High,9,Yes,50.6,C,Pass
+STU0993,22,Male,4.0,92.8,5,63.1,High School,No,No,6.9,Low,4,Yes,47.6,D,Pass
+STU0994,19,Male,3.1,85.6,16,58.8,Postgraduate,Yes,Yes,7.7,High,3,Yes,66.2,B,Pass
+STU0995,22,Male,2.5,80.3,4,47.7,High School,No,Yes,6.2,High,4,No,33.9,F,Fail
+STU0996,19,Male,3.9,91.1,13,63.2,None,Yes,No,6.9,High,4,Yes,49.1,D,Pass
+STU0997,15,Female,8.1,74.6,4,65.9,Graduate,Yes,Yes,7.9,High,6,No,61.3,C,Pass
+STU0998,16,Male,5.8,61.8,11,43.4,Postgraduate,No,No,10.0,Medium,4,Yes,51.3,C,Pass
+STU0999,20,Female,3.4,72.6,19,67.0,Graduate,Yes,No,8.0,High,6,Yes,65.4,B,Pass
+STU1000,17,Female,5.6,63.8,14,59.7,Postgraduate,Yes,No,6.0,Medium,9,No,46.8,D,Pass

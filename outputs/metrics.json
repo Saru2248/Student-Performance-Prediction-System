@@ -1,0 +1,102 @@
+{
+  "feature_names": [
+    "age",
+    "gender",
+    "study_hours_per_day",
+    "attendance_pct",
+    "assignments_done",
+    "previous_score",
+    "parental_education",
+    "internet_access",
+    "extracurricular",
+    "sleep_hours",
+    "stress_level",
+    "library_visits",
+    "tuition_classes"
+  ],
+  "grade_classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F"
+  ],
+  "regression_results": {
+    "Linear Regression": {
+      "MAE": 4.06,
+      "RMSE": 5.083,
+      "R2": 0.713
+    },
+    "Decision Tree Regressor": {
+      "MAE": 5.677,
+      "RMSE": 7.378,
+      "R2": 0.396
+    },
+    "Random Forest Regressor": {
+      "MAE": 4.716,
+      "RMSE": 5.959,
+      "R2": 0.606
+    },
+    "Gradient Boosting Reg": {
+      "MAE": 4.158,
+      "RMSE": 5.21,
+      "R2": 0.699
+    }
+  },
+  "classification_results": {
+    "Logistic Regression": {
+      "Accuracy": 0.685
+    },
+    "Decision Tree Classifier": {
+      "Accuracy": 0.575
+    },
+    "Random Forest Classifier": {
+      "Accuracy": 0.655
+    },
+    "Gradient Boosting Clf": {
+      "Accuracy": 0.65
+    }
+  },
+  "binary_results": {
+    "Accuracy": 0.945
+  },
+  "feature_importance": {},
+  "confusion_matrix": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      17,
+      18,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      83,
+      12,
+      0
+    ],
+    [
+      0,
+      0,
+      12,
+      35,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      2
+    ]
+  ],
+  "n_students": 1000
+}

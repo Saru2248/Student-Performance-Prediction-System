@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Performance Predictor AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <!-- Chart.js for visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="background-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <nav class="navbar glass-panel">
+        <div class="logo">
+            <i class="fa-solid fa-graduation-cap"></i>
+            <span>EduPredict AI</span>
+        </div>
+        <div class="nav-links">
+            <a href="#dashboard" class="active">Dashboard</a>
+            <a href="#predict">Predictor</a>
+            <a href="#about">About Project</a>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Hero Section -->
+        <header class="hero">
+            <h1>Predict Student Performance with <span>Machine Learning</span></h1>
+            <p>An advanced analytical tool utilizing predictive modeling to identify student outcomes, enabling proactive academic interventions and personalized learning paths.</p>
+            <div class="hero-buttons">
+                <a href="#predict" class="btn btn-primary">Try Predictor</a>
+                <a href="#dashboard" class="btn btn-secondary">View Insights</a>
+            </div>
+        </header>
+
+        <!-- Analytics Dashboard -->
+        <section id="dashboard" class="dashboard section">
+            <div class="section-header">
+                <h2><i class="fa-solid fa-chart-line"></i> Global Analytics Dashboard</h2>
+                <p>Insights derived from our synthetic student dataset.</p>
+            </div>
+            
+            <div class="stats-grid">
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon pass"><i class="fa-solid fa-check-circle"></i></div>
+                    <div class="stat-details">
+                        <h3>Pass Rate</h3>
+                        <p id="stat-pass-rate">--%</p>
+                    </div>
+                </div>
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon avg"><i class="fa-solid fa-star"></i></div>
+                    <div class="stat-details">
+                        <h3>Average Score</h3>
+                        <p id="stat-avg-score">--</p>
+                    </div>
+                </div>
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon time"><i class="fa-solid fa-clock"></i></div>
+                    <div class="stat-details">
+                        <h3>Avg Study Hours</h3>
+                        <p id="stat-study-hrs">-- h/day</p>
+                    </div>
+                </div>
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon attend"><i class="fa-solid fa-calendar-check"></i></div>
+                    <div class="stat-details">
+                        <h3>Avg Attendance</h3>
+                        <p id="stat-attendance">--%</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="charts-container">
+                <div class="chart-card glass-panel">
+                    <h3>Score Distribution</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="scoreDistChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card glass-panel">
+                    <h3>Grade Breakdown</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="gradeDistChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card glass-panel full-width">
+                    <h3>Model Performance Metrics</h3>
+                    <div class="metrics-table-container">
+                        <table class="metrics-table" id="metrics-table">
+                            <thead>
+                                <tr>
+                                    <th>Model Name</th>
+                                    <th>Task Type</th>
+                                    <th>Primary Metric</th>
+                                    <th>Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Populated by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Prediction Section -->
+        <section id="predict" class="predictor section">
+            <div class="section-header">
+                <h2><i class="fa-solid fa-robot"></i> Performance Predictor</h2>
+                <p>Enter student details below to simulate the AI prediction.</p>
+            </div>
+
+            <div class="predictor-grid">
+                <div class="form-container glass-panel">
+                    <form id="prediction-form">
+                        <div class="form-group-title">Academic Factors</div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="previous_score">Previous Score (0-100)</label>
+                                <input type="number" id="previous_score" name="previous_score" min="0" max="100" value="75" required>
+                            </div>
+                            <div class="input-group">
+                                <label for="attendance_pct">Attendance % (0-100)</label>
+                                <input type="number" id="attendance_pct" name="attendance_pct" min="0" max="100" value="85" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="study_hours_per_day">Study Hours/Day</label>
+                                <input type="number" id="study_hours_per_day" name="study_hours_per_day" min="0" max="24" step="0.1" value="4.5" required>
+                            </div>
+                            <div class="input-group">
+                                <label for="assignments_done">Assignments Done (0-20)</label>
+                                <input type="number" id="assignments_done" name="assignments_done" min="0" max="20" value="15" required>
+                            </div>
+                        </div>
+
+                        <div class="form-group-title">Personal & Lifestyle</div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="age">Age</label>
+                                <input type="number" id="age" name="age" min="10" max="30" value="18" required>
+                            </div>
+                            <div class="input-group">
+                                <label for="gender">Gender</label>
+                                <select id="gender" name="gender">
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="sleep_hours">Sleep Hours/Night</label>
+                                <input type="number" id="sleep_hours" name="sleep_hours" min="0" max="24" step="0.1" value="7.5" required>
+                            </div>
+                            <div class="input-group">
+                                <label for="stress_level">Stress Level</label>
+                                <select id="stress_level" name="stress_level">
+                                    <option value="Low">Low</option>
+                                    <option value="Medium" selected>Medium</option>
+                                    <option value="High">High</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group-title">Socio-Economic Factors</div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="parental_education">Parental Education</label>
+                                <select id="parental_education" name="parental_education">
+                                    <option value="None">None</option>
+                                    <option value="High School">High School</option>
+                                    <option value="Graduate" selected>Graduate</option>
+                                    <option value="Postgraduate">Postgraduate</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <label for="internet_access">Internet Access</label>
+                                <select id="internet_access" name="internet_access">
+                                    <option value="Yes" selected>Yes</option>
+                                    <option value="No">No</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="extracurricular">Extracurriculars</label>
+                                <select id="extracurricular" name="extracurricular">
+                                    <option value="Yes" selected>Yes</option>
+                                    <option value="No">No</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <label for="tuition_classes">Tuition Classes</label>
+                                <select id="tuition_classes" name="tuition_classes">
+                                    <option value="Yes">Yes</option>
+                                    <option value="No" selected>No</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="input-group" style="width: 100%;">
+                                <label for="library_visits">Library Visits (Monthly)</label>
+                                <input type="number" id="library_visits" name="library_visits" min="0" max="30" value="5" required>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-block" id="predict-btn">
+                                <i class="fa-solid fa-wand-magic-sparkles"></i> Generate Prediction
+                            </button>
+                    </form>
+                </div>
+
+                <div class="result-container glass-panel" id="result-panel">
+                    <div class="result-placeholder" id="result-placeholder">
+                        <i class="fa-solid fa-chart-pie"></i>
+                        <p>Fill out the form and submit to see the AI prediction here.</p>
+                    </div>
+                    
+                    <div class="result-content hidden" id="result-content">
+                        <div class="result-header">
+                            <h3>Prediction Results</h3>
+                            <div class="status-badge" id="res-status">Pass</div>
+                        </div>
+                        
+                        <div class="score-circle-container">
+                            <div class="score-circle" id="score-circle">
+                                <span class="score-value" id="res-score">85</span>
+                                <span class="score-label">Predicted Score</span>
+                            </div>
+                        </div>
+                        
+                        <div class="grade-box">
+                            <span>Predicted Grade:</span>
+                            <span class="grade-value" id="res-grade">A</span>
+                        </div>
+                        
+                        <div class="insights-box">
+                            <h4><i class="fa-solid fa-lightbulb"></i> AI Insights</h4>
+                            <ul id="res-insights">
+                                <!-- Populated by JS -->
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="loading-overlay hidden" id="loading-overlay">
+                        <div class="spinner"></div>
+                        <p>Running inference...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="about" class="about section">
+             <div class="section-header">
+                <h2><i class="fa-solid fa-info-circle"></i> About the Project</h2>
+                <p>Architecture and implementation details.</p>
+            </div>
+            <div class="glass-panel about-content">
+                <h3>System Architecture</h3>
+                <p>This system uses a pipeline combining data preprocessing, feature engineering, and multiple machine learning models to provide comprehensive predictions.</p>
+                
+                <div class="arch-diagram">
+                    <div class="arch-box">Input Data<br><small>(Web Form)</small></div>
+                    <i class="fa-solid fa-arrow-right"></i>
+                    <div class="arch-box">FastAPI<br><small>(Backend API)</small></div>
+                    <i class="fa-solid fa-arrow-right"></i>
+                    <div class="arch-box">Preprocessing<br><small>(Scaler & Encoder)</small></div>
+                    <i class="fa-solid fa-arrow-right"></i>
+                    <div class="arch-box highlight">Ensemble Models<br><small>(RF, GB, LR)</small></div>
+                    <i class="fa-solid fa-arrow-right"></i>
+                    <div class="arch-box">Prediction<br><small>(Score, Grade, Pass)</small></div>
+                </div>
+                
+                <h3>Technologies Used</h3>
+                <div class="tech-tags">
+                    <span class="tech-tag">Python</span>
+                    <span class="tech-tag">Scikit-Learn</span>
+                    <span class="tech-tag">Pandas</span>
+                    <span class="tech-tag">FastAPI</span>
+                    <span class="tech-tag">HTML5/CSS3</span>
+                    <span class="tech-tag">JavaScript</span>
+                    <span class="tech-tag">Chart.js</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Student Performance Prediction System. Built for educational purposes.</p>
+    </footer>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
